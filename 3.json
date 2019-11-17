@@ -1,0 +1,22 @@
+{
+    "curb_stats": [
+        {
+            "indivisual_unparkable_curb": [
+                "38.34",
+                "2.26",
+                "2.22",
+                "15.57",
+                "2.17"
+            ],
+            "sidewalk_len": "102.99",
+            "unparkable_curb_sum": "60.56",
+            "parkable_curb_sum": "42.43",
+            "unparkable_ratio": "0.59",
+            "parkable_ratio": "0.41",
+            "curb_cut_sum": "2.17",
+            "paint_sum": "58.39",
+            "curb_cut_ratio": "0.02",
+            "paint_ratio": "0.57"
+        }
+    ]
+}
