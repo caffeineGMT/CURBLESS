@@ -1,0 +1,1307 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "645db836-98b1-4421-9f29-8a39f0f9966b",
+                "end_time": "2019-09-14 21:03:12.789908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258643333333325,
+                    34.048385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "84d1a237-44ae-4dd1-9724-8b2e78fc8b5f",
+                "end_time": "2019-09-14 19:15:14.922008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258278438876644,
+                    34.048262726464117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "9babb8a0-4e09-48bf-a081-eb19e5c4d93e",
+                "end_time": "2019-09-14 18:57:15.108759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.254776666666658,
+                    34.048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "07f4cb02-6b0c-4a15-9730-19accbb02787",
+                "end_time": "2019-09-14 18:15:17.971002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.252813,
+                    34.047927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "7107e726-f26e-49eb-802b-750cfde419af",
+                "end_time": "2019-09-14 18:33:15.155521"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.230148333333318,
+                    34.02554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "323380ab-c4dd-4472-ab4b-383169b3b992",
+                "end_time": "2019-09-14 21:21:12.518480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258101666666661,
+                    34.048668333333332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "9bdfa6dd-cf1d-45a1-9738-bc097be9fe72",
+                "end_time": "2019-09-14 19:06:16.698880"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258186666666674,
+                    34.048485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "f3166582-5e11-49ed-9d01-aa592d13e5a1",
+                "end_time": "2019-09-14 20:36:12.689557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.252838333333315,
+                    34.049648333333337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "01fbccfa-3962-4dc6-b2a1-fb70ca574fd8",
+                "end_time": "2019-09-14 18:27:14.767661"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.26,
+                    34.044095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "645db836-98b1-4421-9f29-8a39f0f9966b",
+                "end_time": "2019-09-14 21:03:12.789908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258643333333325,
+                    34.048385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "24045f81-e5f7-424d-b23c-27c2731c55d8",
+                "end_time": "2019-09-14 21:18:13.398503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.259063333333316,
+                    34.04806833333334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "e279fddd-30a4-42bc-88c7-56e00699267f",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25811,
+                    34.04804166666667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "cdc533e3-a805-4c47-a310-d95bc79df764",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258911666666663,
+                    34.048203333333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "f3166582-5e11-49ed-9d01-aa592d13e5a1",
+                "end_time": "2019-09-14 20:36:12.689557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.252838333333315,
+                    34.049648333333337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "7107e726-f26e-49eb-802b-750cfde419af",
+                "end_time": "2019-09-14 18:33:15.155521"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.230148333333318,
+                    34.02554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "890bf805-39d5-4ea3-973e-a39724f83949",
+                "end_time": "2019-09-14 20:30:13.562535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.249976666666683,
+                    34.047333333333327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "bf96ceca-c60a-46fd-a5e5-1aeceaae0e16",
+                "end_time": "2019-09-14 19:30:14.682320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25608,
+                    34.043921666666662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "a4f6d4d4-1eff-44e5-8c5a-d72c3fb57515",
+                "end_time": "2019-09-14 19:24:14.727965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.256348333333335,
+                    34.044895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "24045f81-e5f7-424d-b23c-27c2731c55d8",
+                "end_time": "2019-09-14 21:18:13.398503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.259063333333316,
+                    34.04806833333334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "f3166582-5e11-49ed-9d01-aa592d13e5a1",
+                "end_time": "2019-09-14 20:36:12.689557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.252838333333315,
+                    34.049648333333337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "c43b7d3a-3420-4739-98a0-2c7c1efc655e",
+                "end_time": "2019-09-14 19:45:14.084380"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258544,
+                    34.04776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "e530408f-b8c6-40bd-89c9-3b1a830f759c",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2572,
+                    34.046449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "9babb8a0-4e09-48bf-a081-eb19e5c4d93e",
+                "end_time": "2019-09-14 18:57:15.108759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.254776666666658,
+                    34.048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "323380ab-c4dd-4472-ab4b-383169b3b992",
+                "end_time": "2019-09-14 21:21:12.518480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258101666666661,
+                    34.048668333333332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "e279fddd-30a4-42bc-88c7-56e00699267f",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25811,
+                    34.04804166666667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "c7f36f5a-10e1-40ef-b897-41c1a81a76a3",
+                "end_time": "2019-09-14 20:30:13.562535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.24987,
+                    34.047283333333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "9babb8a0-4e09-48bf-a081-eb19e5c4d93e",
+                "end_time": "2019-09-14 18:57:15.108759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.254776666666658,
+                    34.048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "bda0daf6-8e89-4cff-a983-21896467e6fe",
+                "end_time": "2019-09-14 20:06:12.169199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25785,
+                    34.048458333333329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "24045f81-e5f7-424d-b23c-27c2731c55d8",
+                "end_time": "2019-09-14 21:18:13.398503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.259063333333316,
+                    34.04806833333334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "645db836-98b1-4421-9f29-8a39f0f9966b",
+                "end_time": "2019-09-14 21:03:12.789908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258643333333325,
+                    34.048385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "cdc533e3-a805-4c47-a310-d95bc79df764",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258911666666663,
+                    34.048203333333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "2221d3a1-e638-49f7-ae0f-04ce0f10a9b8",
+                "end_time": "2019-09-14 20:03:13.700004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25826333333336,
+                    34.048165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "645db836-98b1-4421-9f29-8a39f0f9966b",
+                "end_time": "2019-09-14 21:03:12.789908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258643333333325,
+                    34.048385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "cdc533e3-a805-4c47-a310-d95bc79df764",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258911666666663,
+                    34.048203333333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "24045f81-e5f7-424d-b23c-27c2731c55d8",
+                "end_time": "2019-09-14 21:18:13.398503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.259063333333316,
+                    34.04806833333334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "2a0dc66e-f8bf-40bf-ad72-7a8d3a2f78bb",
+                "end_time": "2019-09-14 19:24:14.727965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25751136908012,
+                    34.047901555321324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "fd6c8771-9e1c-4a61-8562-47a51484b98c",
+                "end_time": "2019-09-14 19:24:14.727965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258136,
+                    34.047738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "4cb7618e-68a8-43ec-aae6-5182f9992898",
+                "end_time": "2019-09-14 19:24:14.727965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.257969,
+                    34.047805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "6958dba5-b181-48d1-b665-b034c9437292",
+                "end_time": "2019-09-14 19:24:14.727965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25815,
+                    34.047912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "2221d3a1-e638-49f7-ae0f-04ce0f10a9b8",
+                "end_time": "2019-09-14 20:03:13.700004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25826333333336,
+                    34.048165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "2020fd62-8f93-4bde-ab33-14b941ac099e",
+                "end_time": "2019-09-14 21:12:13.609084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258491666666686,
+                    34.048331666666662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "323380ab-c4dd-4472-ab4b-383169b3b992",
+                "end_time": "2019-09-14 21:21:12.518480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258101666666661,
+                    34.048668333333332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "24045f81-e5f7-424d-b23c-27c2731c55d8",
+                "end_time": "2019-09-14 21:18:13.398503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.259063333333316,
+                    34.04806833333334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "eefbbb68-b3cc-4999-a67d-d85bd158f414",
+                "end_time": "2019-09-14 19:33:13.823520"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.252741,
+                    34.049013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "ab8ccddb-e0b5-418d-b948-a1eddf326189",
+                "end_time": "2019-09-14 19:30:14.682320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258102,
+                    34.047995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "e279fddd-30a4-42bc-88c7-56e00699267f",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25811,
+                    34.04804166666667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "c7d7205d-1dfa-4bc8-8305-ca0cae68845c",
+                "end_time": "2019-09-14 19:30:14.682320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.257937,
+                    34.047676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "645db836-98b1-4421-9f29-8a39f0f9966b",
+                "end_time": "2019-09-14 21:03:12.789908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258643333333325,
+                    34.048385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "09238fd8-2267-4a95-b2fa-b2e24134f781",
+                "end_time": "2019-09-14 20:18:13.269163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25699666666668,
+                    34.048645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "d0b78e76-15f8-4d84-a591-af47e42e57bf",
+                "end_time": "2019-09-14 21:12:13.609084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.256766666666678,
+                    34.048668333333332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "e279fddd-30a4-42bc-88c7-56e00699267f",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25811,
+                    34.04804166666667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "c43b7d3a-3420-4739-98a0-2c7c1efc655e",
+                "end_time": "2019-09-14 19:45:14.084380"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258544,
+                    34.04776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "bda0daf6-8e89-4cff-a983-21896467e6fe",
+                "end_time": "2019-09-14 20:06:12.169199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25785,
+                    34.048458333333329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "a37ebea8-e144-49dd-b11f-fb6607020ff1",
+                "end_time": "2019-09-14 19:45:14.084380"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.257928,
+                    34.048145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "323380ab-c4dd-4472-ab4b-383169b3b992",
+                "end_time": "2019-09-14 21:21:12.518480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258101666666661,
+                    34.048668333333332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "09238fd8-2267-4a95-b2fa-b2e24134f781",
+                "end_time": "2019-09-14 20:18:13.269163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25699666666668,
+                    34.048645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "2221d3a1-e638-49f7-ae0f-04ce0f10a9b8",
+                "end_time": "2019-09-14 20:03:13.700004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25826333333336,
+                    34.048165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "24045f81-e5f7-424d-b23c-27c2731c55d8",
+                "end_time": "2019-09-14 21:18:13.398503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.259063333333316,
+                    34.04806833333334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "2020fd62-8f93-4bde-ab33-14b941ac099e",
+                "end_time": "2019-09-14 21:12:13.609084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258491666666686,
+                    34.048331666666662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "b5313ea3-9f49-4682-ad0b-e24ef527ceae",
+                "end_time": "2019-09-14 19:54:13.470986"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.257758333333342,
+                    34.04792333333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "fdfdbb91-a55f-43d4-b0c0-d1d1777ab6e7",
+                "end_time": "2019-09-14 19:54:13.470986"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258203,
+                    34.047983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "1fd7304b-6835-4aee-ba39-1048dd25b816",
+                "end_time": "2019-09-14 20:03:13.700004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.257956,
+                    34.04782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "461465b8-01a7-4663-9f28-191e1a613e32",
+                "end_time": "2019-09-14 19:57:34.187149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25753,
+                    34.047552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "00744c07-1995-405a-9fba-6f4ae210bcd8",
+                "end_time": "2019-09-14 20:00:14.450810"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.257453333333345,
+                    34.04781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "835c663a-4bfc-4ef8-8432-ce8834a24806",
+                "end_time": "2019-09-14 20:00:14.450810"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.257216,
+                    34.047917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "686a10f9-c2df-4f12-b8e6-a6983a7f0c7c",
+                "end_time": "2019-09-14 20:00:14.450810"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25753,
+                    34.047718333333336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "d0b78e76-15f8-4d84-a591-af47e42e57bf",
+                "end_time": "2019-09-14 21:12:13.609084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.256766666666678,
+                    34.048668333333332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "2221d3a1-e638-49f7-ae0f-04ce0f10a9b8",
+                "end_time": "2019-09-14 20:03:13.700004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25826333333336,
+                    34.048165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "bda0daf6-8e89-4cff-a983-21896467e6fe",
+                "end_time": "2019-09-14 20:06:12.169199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25785,
+                    34.048458333333329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "5ec589e4-dbda-4161-ac87-cc9e765cf9a3",
+                "end_time": "2019-09-14 20:09:14.254323"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.256958333333316,
+                    34.04734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "d2a7d5e5-89d7-4db3-87ad-1bc5bee83cb0",
+                "end_time": "2019-09-14 20:09:14.254323"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.256747,
+                    34.047557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "d8eecbea-3b64-40f3-bdc0-11097a070faf",
+                "end_time": "2019-09-14 20:27:13.610076"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.232871666666639,
+                    34.047236666666663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "d038ffbc-15f6-4d5a-988a-ec3f81038f49",
+                "end_time": "2019-09-14 20:12:12.787856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.256747825998019,
+                    34.047309359031985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "cdc533e3-a805-4c47-a310-d95bc79df764",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258911666666663,
+                    34.048203333333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "1704eed3-c3a5-48b8-8167-1fcca4469148",
+                "end_time": "2019-09-14 20:42:14.262918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.257866666666658,
+                    34.048065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "b1389718-41eb-4479-9207-53a588542ff1",
+                "end_time": "2019-09-14 20:15:13.649285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25430333333334,
+                    34.047771666666669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "f3166582-5e11-49ed-9d01-aa592d13e5a1",
+                "end_time": "2019-09-14 20:36:12.689557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.252838333333315,
+                    34.049648333333337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "cfae6d1f-1780-4dec-87c6-e216e173b059",
+                "end_time": "2019-09-14 20:45:12.593407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.257713333333314,
+                    34.04805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "c9f88745-a8d3-424b-8d24-d1652242abdc",
+                "end_time": "2019-09-14 20:45:12.593407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.257758333333342,
+                    34.04813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "645db836-98b1-4421-9f29-8a39f0f9966b",
+                "end_time": "2019-09-14 21:03:12.789908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258643333333325,
+                    34.048385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "e530408f-b8c6-40bd-89c9-3b1a830f759c",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2572,
+                    34.046449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "cdc533e3-a805-4c47-a310-d95bc79df764",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258911666666663,
+                    34.048203333333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "f3166582-5e11-49ed-9d01-aa592d13e5a1",
+                "end_time": "2019-09-14 20:36:12.689557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.252838333333315,
+                    34.049648333333337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "d0b78e76-15f8-4d84-a591-af47e42e57bf",
+                "end_time": "2019-09-14 21:12:13.609084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.256766666666678,
+                    34.048668333333332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "24045f81-e5f7-424d-b23c-27c2731c55d8",
+                "end_time": "2019-09-14 21:18:13.398503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.259063333333316,
+                    34.04806833333334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "d0b78e76-15f8-4d84-a591-af47e42e57bf",
+                "end_time": "2019-09-14 21:12:13.609084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.256766666666678,
+                    34.048668333333332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "e530408f-b8c6-40bd-89c9-3b1a830f759c",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2572,
+                    34.046449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "e279fddd-30a4-42bc-88c7-56e00699267f",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25811,
+                    34.04804166666667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "cdc533e3-a805-4c47-a310-d95bc79df764",
+                "end_time": "2019-09-14 21:09:12.336276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258911666666663,
+                    34.048203333333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "2020fd62-8f93-4bde-ab33-14b941ac099e",
+                "end_time": "2019-09-14 21:12:13.609084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258491666666686,
+                    34.048331666666662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "d0b78e76-15f8-4d84-a591-af47e42e57bf",
+                "end_time": "2019-09-14 21:12:13.609084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.256766666666678,
+                    34.048668333333332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "24045f81-e5f7-424d-b23c-27c2731c55d8",
+                "end_time": "2019-09-14 21:18:13.398503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.259063333333316,
+                    34.04806833333334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "scooter_id": "323380ab-c4dd-4472-ab4b-383169b3b992",
+                "end_time": "2019-09-14 21:21:12.518480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.258101666666661,
+                    34.048668333333332
+                ]
+            }
+        }
+    ]
+}

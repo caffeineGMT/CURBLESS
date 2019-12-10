@@ -1,0 +1,5443 @@
+{
+    "curb_stats": [
+        {
+            "indivisual_unparkable_curb": [
+                "3.95",
+                "4.42"
+            ],
+            "sidewalk_len": "66.78",
+            "unparkable_curb_sum": "8.37",
+            "parkable_curb_sum": "58.41",
+            "unparkable_ratio": "0.13",
+            "parkable_ratio": "0.87",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "8.37",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.13"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.04",
+                "3.50",
+                "19.62",
+                "2.22",
+                "5.62",
+                "1.93",
+                "3.99",
+                "12.48",
+                "3.82",
+                "3.28"
+            ],
+            "sidewalk_len": "71.35",
+            "unparkable_curb_sum": "58.50",
+            "parkable_curb_sum": "12.85",
+            "unparkable_ratio": "0.82",
+            "parkable_ratio": "0.18",
+            "curb_cut_sum": "9.31",
+            "paint_sum": "49.19",
+            "curb_cut_ratio": "0.13",
+            "paint_ratio": "0.69"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.81",
+                "0.34",
+                "13.70",
+                "26.24",
+                "0.20"
+            ],
+            "sidewalk_len": "90.72",
+            "unparkable_curb_sum": "41.29",
+            "parkable_curb_sum": "49.43",
+            "unparkable_ratio": "0.46",
+            "parkable_ratio": "0.54",
+            "curb_cut_sum": "0.20",
+            "paint_sum": "41.09",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.45"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.30",
+                "5.45",
+                "12.42",
+                "14.82",
+                "12.10",
+                "0.89",
+                "2.64",
+                "0.17"
+            ],
+            "sidewalk_len": "95.11",
+            "unparkable_curb_sum": "51.79",
+            "parkable_curb_sum": "43.32",
+            "unparkable_ratio": "0.54",
+            "parkable_ratio": "0.46",
+            "curb_cut_sum": "5.94",
+            "paint_sum": "45.85",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.48"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.80",
+                "5.76",
+                "0.83"
+            ],
+            "sidewalk_len": "50.53",
+            "unparkable_curb_sum": "11.39",
+            "parkable_curb_sum": "39.14",
+            "unparkable_ratio": "0.23",
+            "parkable_ratio": "0.77",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "11.39",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.23"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.79",
+                "2.87",
+                "13.11",
+                "0.89",
+                "1.24",
+                "36.90",
+                "4.54",
+                "3.41",
+                "0.02"
+            ],
+            "sidewalk_len": "100.58",
+            "unparkable_curb_sum": "65.77",
+            "parkable_curb_sum": "34.81",
+            "unparkable_ratio": "0.65",
+            "parkable_ratio": "0.35",
+            "curb_cut_sum": "6.20",
+            "paint_sum": "59.57",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.59"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.43",
+                "1.68",
+                "2.18",
+                "6.04",
+                "0.67",
+                "8.93",
+                "13.18",
+                "0.85",
+                "7.87",
+                "0.33",
+                "2.34"
+            ],
+            "sidewalk_len": "61.70",
+            "unparkable_curb_sum": "49.50",
+            "parkable_curb_sum": "12.20",
+            "unparkable_ratio": "0.80",
+            "parkable_ratio": "0.20",
+            "curb_cut_sum": "2.34",
+            "paint_sum": "47.16",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.76"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.55",
+                "24.43",
+                "5.60",
+                "8.24",
+                "9.66",
+                "31.43",
+                "1.05",
+                "4.71",
+                "4.88"
+            ],
+            "sidewalk_len": "93.00",
+            "unparkable_curb_sum": "90.55",
+            "parkable_curb_sum": "2.45",
+            "unparkable_ratio": "0.97",
+            "parkable_ratio": "0.03",
+            "curb_cut_sum": "45.10",
+            "paint_sum": "45.45",
+            "curb_cut_ratio": "0.48",
+            "paint_ratio": "0.49"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.05",
+                "29.58",
+                "10.90"
+            ],
+            "sidewalk_len": "43.55",
+            "unparkable_curb_sum": "43.53",
+            "parkable_curb_sum": "0.02",
+            "unparkable_ratio": "1.00",
+            "parkable_ratio": "0.00",
+            "curb_cut_sum": "13.95",
+            "paint_sum": "29.58",
+            "curb_cut_ratio": "0.32",
+            "paint_ratio": "0.68"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.84",
+                "27.11",
+                "0.22",
+                "10.40",
+                "3.02",
+                "1.30",
+                "1.78"
+            ],
+            "sidewalk_len": "90.37",
+            "unparkable_curb_sum": "48.67",
+            "parkable_curb_sum": "41.70",
+            "unparkable_ratio": "0.54",
+            "parkable_ratio": "0.46",
+            "curb_cut_sum": "2.00",
+            "paint_sum": "46.67",
+            "curb_cut_ratio": "0.02",
+            "paint_ratio": "0.52"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "16.71",
+                "3.06"
+            ],
+            "sidewalk_len": "21.50",
+            "unparkable_curb_sum": "19.77",
+            "parkable_curb_sum": "1.73",
+            "unparkable_ratio": "0.92",
+            "parkable_ratio": "0.08",
+            "curb_cut_sum": "19.77",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.92",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "12.31",
+                "0.05"
+            ],
+            "sidewalk_len": "16.97",
+            "unparkable_curb_sum": "12.36",
+            "parkable_curb_sum": "4.61",
+            "unparkable_ratio": "0.73",
+            "parkable_ratio": "0.27",
+            "curb_cut_sum": "12.36",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.73",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.74",
+                "3.60",
+                "4.78",
+                "11.50"
+            ],
+            "sidewalk_len": "30.90",
+            "unparkable_curb_sum": "23.62",
+            "parkable_curb_sum": "7.28",
+            "unparkable_ratio": "0.76",
+            "parkable_ratio": "0.24",
+            "curb_cut_sum": "3.60",
+            "paint_sum": "20.02",
+            "curb_cut_ratio": "0.12",
+            "paint_ratio": "0.65"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.11",
+                "18.68",
+                "12.85",
+                "0.67",
+                "4.97",
+                "4.41",
+                "1.96",
+                "9.56",
+                "0.78",
+                "5.46",
+                "21.65",
+                "0.67"
+            ],
+            "sidewalk_len": "134.94",
+            "unparkable_curb_sum": "81.77",
+            "parkable_curb_sum": "53.17",
+            "unparkable_ratio": "0.61",
+            "parkable_ratio": "0.39",
+            "curb_cut_sum": "15.31",
+            "paint_sum": "66.46",
+            "curb_cut_ratio": "0.11",
+            "paint_ratio": "0.49"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.84",
+                "28.75",
+                "15.54"
+            ],
+            "sidewalk_len": "47.51",
+            "unparkable_curb_sum": "47.13",
+            "parkable_curb_sum": "0.38",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "47.13",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.99"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.55",
+                "1.52",
+                "2.43",
+                "0.24"
+            ],
+            "sidewalk_len": "50.61",
+            "unparkable_curb_sum": "7.74",
+            "parkable_curb_sum": "42.87",
+            "unparkable_ratio": "0.15",
+            "parkable_ratio": "0.85",
+            "curb_cut_sum": "2.43",
+            "paint_sum": "5.31",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.10"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.94",
+                "29.35",
+                "3.08",
+                "18.91",
+                "1.92",
+                "23.49",
+                "13.10"
+            ],
+            "sidewalk_len": "95.14",
+            "unparkable_curb_sum": "92.79",
+            "parkable_curb_sum": "2.35",
+            "unparkable_ratio": "0.98",
+            "parkable_ratio": "0.02",
+            "curb_cut_sum": "18.91",
+            "paint_sum": "73.88",
+            "curb_cut_ratio": "0.20",
+            "paint_ratio": "0.78"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.10",
+                "6.10"
+            ],
+            "sidewalk_len": "94.54",
+            "unparkable_curb_sum": "11.20",
+            "parkable_curb_sum": "83.34",
+            "unparkable_ratio": "0.12",
+            "parkable_ratio": "0.88",
+            "curb_cut_sum": "11.20",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.12",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "7.00",
+                "6.53",
+                "1.11",
+                "5.86",
+                "2.51",
+                "10.79",
+                "13.78",
+                "13.87",
+                "12.11",
+                "1.01"
+            ],
+            "sidewalk_len": "124.84",
+            "unparkable_curb_sum": "74.57",
+            "parkable_curb_sum": "50.27",
+            "unparkable_ratio": "0.60",
+            "parkable_ratio": "0.40",
+            "curb_cut_sum": "5.86",
+            "paint_sum": "68.71",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.55"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.97",
+                "30.55",
+                "35.95",
+                "1.04",
+                "2.38"
+            ],
+            "sidewalk_len": "93.87",
+            "unparkable_curb_sum": "72.89",
+            "parkable_curb_sum": "20.98",
+            "unparkable_ratio": "0.78",
+            "parkable_ratio": "0.22",
+            "curb_cut_sum": "5.35",
+            "paint_sum": "67.54",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.72"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.68",
+                "2.08"
+            ],
+            "sidewalk_len": "93.26",
+            "unparkable_curb_sum": "3.76",
+            "parkable_curb_sum": "89.50",
+            "unparkable_ratio": "0.04",
+            "parkable_ratio": "0.96",
+            "curb_cut_sum": "3.76",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.31",
+                "13.12",
+                "14.33",
+                "2.26"
+            ],
+            "sidewalk_len": "94.65",
+            "unparkable_curb_sum": "33.02",
+            "parkable_curb_sum": "61.63",
+            "unparkable_ratio": "0.35",
+            "parkable_ratio": "0.65",
+            "curb_cut_sum": "5.57",
+            "paint_sum": "27.45",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.29"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "15.76",
+                "4.54",
+                "5.51",
+                "10.66",
+                "5.28",
+                "1.40",
+                "4.97",
+                "14.23",
+                "6.03",
+                "7.16",
+                "4.70"
+            ],
+            "sidewalk_len": "96.90",
+            "unparkable_curb_sum": "80.24",
+            "parkable_curb_sum": "16.66",
+            "unparkable_ratio": "0.83",
+            "parkable_ratio": "0.17",
+            "curb_cut_sum": "30.69",
+            "paint_sum": "49.55",
+            "curb_cut_ratio": "0.32",
+            "paint_ratio": "0.51"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.92",
+                "0.42",
+                "6.92",
+                "20.87",
+                "19.58",
+                "10.80",
+                "2.41"
+            ],
+            "sidewalk_len": "92.97",
+            "unparkable_curb_sum": "62.92",
+            "parkable_curb_sum": "30.05",
+            "unparkable_ratio": "0.68",
+            "parkable_ratio": "0.32",
+            "curb_cut_sum": "4.33",
+            "paint_sum": "58.59",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.63"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.75",
+                "5.86",
+                "31.07",
+                "2.13"
+            ],
+            "sidewalk_len": "43.15",
+            "unparkable_curb_sum": "40.81",
+            "parkable_curb_sum": "2.34",
+            "unparkable_ratio": "0.95",
+            "parkable_ratio": "0.05",
+            "curb_cut_sum": "1.75",
+            "paint_sum": "39.06",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.91"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.26",
+                "4.11",
+                "1.21",
+                "3.58"
+            ],
+            "sidewalk_len": "95.03",
+            "unparkable_curb_sum": "11.16",
+            "parkable_curb_sum": "83.87",
+            "unparkable_ratio": "0.12",
+            "parkable_ratio": "0.88",
+            "curb_cut_sum": "9.95",
+            "paint_sum": "1.21",
+            "curb_cut_ratio": "0.10",
+            "paint_ratio": "0.01"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.56",
+                "25.73",
+                "12.68",
+                "12.70",
+                "5.68",
+                "2.27"
+            ],
+            "sidewalk_len": "132.99",
+            "unparkable_curb_sum": "60.62",
+            "parkable_curb_sum": "72.37",
+            "unparkable_ratio": "0.46",
+            "parkable_ratio": "0.54",
+            "curb_cut_sum": "16.51",
+            "paint_sum": "44.11",
+            "curb_cut_ratio": "0.12",
+            "paint_ratio": "0.33"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.11",
+                "3.49",
+                "5.68",
+                "2.04"
+            ],
+            "sidewalk_len": "133.96",
+            "unparkable_curb_sum": "13.32",
+            "parkable_curb_sum": "120.64",
+            "unparkable_ratio": "0.10",
+            "parkable_ratio": "0.90",
+            "curb_cut_sum": "13.32",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.10",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.67",
+                "29.29",
+                "7.91",
+                "14.79",
+                "22.55",
+                "2.45"
+            ],
+            "sidewalk_len": "88.45",
+            "unparkable_curb_sum": "78.66",
+            "parkable_curb_sum": "9.79",
+            "unparkable_ratio": "0.89",
+            "parkable_ratio": "0.11",
+            "curb_cut_sum": "12.03",
+            "paint_sum": "66.63",
+            "curb_cut_ratio": "0.14",
+            "paint_ratio": "0.75"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.20",
+                "24.70",
+                "13.69",
+                "8.22",
+                "13.47",
+                "2.06",
+                "3.17"
+            ],
+            "sidewalk_len": "82.07",
+            "unparkable_curb_sum": "67.51",
+            "parkable_curb_sum": "14.56",
+            "unparkable_ratio": "0.82",
+            "parkable_ratio": "0.18",
+            "curb_cut_sum": "5.37",
+            "paint_sum": "62.14",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.76"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.44",
+                "2.78",
+                "8.90",
+                "6.51",
+                "1.91",
+                "1.41"
+            ],
+            "sidewalk_len": "94.54",
+            "unparkable_curb_sum": "22.95",
+            "parkable_curb_sum": "71.59",
+            "unparkable_ratio": "0.24",
+            "parkable_ratio": "0.76",
+            "curb_cut_sum": "2.85",
+            "paint_sum": "20.10",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.21"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.71",
+                "4.71"
+            ],
+            "sidewalk_len": "64.59",
+            "unparkable_curb_sum": "9.42",
+            "parkable_curb_sum": "55.17",
+            "unparkable_ratio": "0.15",
+            "parkable_ratio": "0.85",
+            "curb_cut_sum": "9.42",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.15",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.97",
+                "3.83",
+                "23.50",
+                "1.31",
+                "12.11",
+                "1.10",
+                "12.81",
+                "2.80",
+                "4.62"
+            ],
+            "sidewalk_len": "136.57",
+            "unparkable_curb_sum": "65.05",
+            "parkable_curb_sum": "71.52",
+            "unparkable_ratio": "0.48",
+            "parkable_ratio": "0.52",
+            "curb_cut_sum": "19.53",
+            "paint_sum": "45.52",
+            "curb_cut_ratio": "0.14",
+            "paint_ratio": "0.33"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.52",
+                "2.77",
+                "3.31",
+                "3.93"
+            ],
+            "sidewalk_len": "95.59",
+            "unparkable_curb_sum": "12.53",
+            "parkable_curb_sum": "83.06",
+            "unparkable_ratio": "0.13",
+            "parkable_ratio": "0.87",
+            "curb_cut_sum": "6.45",
+            "paint_sum": "6.08",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.06"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.34",
+                "1.48",
+                "37.01",
+                "2.05",
+                "7.37",
+                "3.69",
+                "40.54",
+                "2.27"
+            ],
+            "sidewalk_len": "131.81",
+            "unparkable_curb_sum": "95.75",
+            "parkable_curb_sum": "36.06",
+            "unparkable_ratio": "0.73",
+            "parkable_ratio": "0.27",
+            "curb_cut_sum": "10.98",
+            "paint_sum": "84.77",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.64"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.45",
+                "2.18",
+                "35.05",
+                "1.51",
+                "2.27",
+                "2.11",
+                "1.75",
+                "59.13"
+            ],
+            "sidewalk_len": "132.01",
+            "unparkable_curb_sum": "105.45",
+            "parkable_curb_sum": "26.56",
+            "unparkable_ratio": "0.80",
+            "parkable_ratio": "0.20",
+            "curb_cut_sum": "5.83",
+            "paint_sum": "99.62",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.75"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "6.10",
+                "12.35",
+                "7.50"
+            ],
+            "sidewalk_len": "65.04",
+            "unparkable_curb_sum": "25.95",
+            "parkable_curb_sum": "39.09",
+            "unparkable_ratio": "0.40",
+            "parkable_ratio": "0.60",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "25.95",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.40"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.90",
+                "3.74"
+            ],
+            "sidewalk_len": "132.31",
+            "unparkable_curb_sum": "6.64",
+            "parkable_curb_sum": "125.67",
+            "unparkable_ratio": "0.05",
+            "parkable_ratio": "0.95",
+            "curb_cut_sum": "6.64",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.19",
+                "1.11",
+                "13.26",
+                "1.25",
+                "7.03",
+                "0.86",
+                "5.88",
+                "0.58",
+                "7.18",
+                "0.94",
+                "13.91",
+                "4.50"
+            ],
+            "sidewalk_len": "132.76",
+            "unparkable_curb_sum": "58.69",
+            "parkable_curb_sum": "74.07",
+            "unparkable_ratio": "0.44",
+            "parkable_ratio": "0.56",
+            "curb_cut_sum": "20.90",
+            "paint_sum": "37.79",
+            "curb_cut_ratio": "0.16",
+            "paint_ratio": "0.28"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.92",
+                "15.22",
+                "8.06"
+            ],
+            "sidewalk_len": "65.57",
+            "unparkable_curb_sum": "24.20",
+            "parkable_curb_sum": "41.37",
+            "unparkable_ratio": "0.37",
+            "parkable_ratio": "0.63",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "24.20",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.37"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.01",
+                "13.89",
+                "23.99",
+                "0.64",
+                "12.47",
+                "0.54",
+                "1.05",
+                "2.67"
+            ],
+            "sidewalk_len": "91.16",
+            "unparkable_curb_sum": "60.26",
+            "parkable_curb_sum": "30.90",
+            "unparkable_ratio": "0.66",
+            "parkable_ratio": "0.34",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "60.26",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.66"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "8.27",
+                "3.76",
+                "0.54"
+            ],
+            "sidewalk_len": "133.35",
+            "unparkable_curb_sum": "12.57",
+            "parkable_curb_sum": "120.78",
+            "unparkable_ratio": "0.09",
+            "parkable_ratio": "0.91",
+            "curb_cut_sum": "12.03",
+            "paint_sum": "0.54",
+            "curb_cut_ratio": "0.09",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.94"
+            ],
+            "sidewalk_len": "68.56",
+            "unparkable_curb_sum": "4.94",
+            "parkable_curb_sum": "63.62",
+            "unparkable_ratio": "0.07",
+            "parkable_ratio": "0.93",
+            "curb_cut_sum": "4.94",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.90",
+                "28.61",
+                "6.36",
+                "8.42",
+                "42.56"
+            ],
+            "sidewalk_len": "97.39",
+            "unparkable_curb_sum": "90.85",
+            "parkable_curb_sum": "6.54",
+            "unparkable_ratio": "0.93",
+            "parkable_ratio": "0.07",
+            "curb_cut_sum": "8.42",
+            "paint_sum": "82.43",
+            "curb_cut_ratio": "0.09",
+            "paint_ratio": "0.85"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.19",
+                "90.87",
+                "1.69"
+            ],
+            "sidewalk_len": "97.41",
+            "unparkable_curb_sum": "96.75",
+            "parkable_curb_sum": "0.66",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "5.88",
+            "paint_sum": "90.87",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.93"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "16.52",
+                "1.61",
+                "1.86",
+                "2.01",
+                "1.31",
+                "9.89",
+                "0.83",
+                "2.28"
+            ],
+            "sidewalk_len": "48.09",
+            "unparkable_curb_sum": "36.31",
+            "parkable_curb_sum": "11.78",
+            "unparkable_ratio": "0.76",
+            "parkable_ratio": "0.24",
+            "curb_cut_sum": "11.50",
+            "paint_sum": "24.81",
+            "curb_cut_ratio": "0.24",
+            "paint_ratio": "0.52"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.00",
+                "0.54"
+            ],
+            "sidewalk_len": "47.07",
+            "unparkable_curb_sum": "3.54",
+            "parkable_curb_sum": "43.53",
+            "unparkable_ratio": "0.08",
+            "parkable_ratio": "0.92",
+            "curb_cut_sum": "3.00",
+            "paint_sum": "0.54",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.01"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.55"
+            ],
+            "sidewalk_len": "16.33",
+            "unparkable_curb_sum": "3.55",
+            "parkable_curb_sum": "12.78",
+            "unparkable_ratio": "0.22",
+            "parkable_ratio": "0.78",
+            "curb_cut_sum": "3.55",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.22",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.98",
+                "1.53",
+                "6.87",
+                "13.77",
+                "0.14",
+                "14.35",
+                "0.05",
+                "9.18",
+                "5.19",
+                "0.42",
+                "4.15",
+                "6.02",
+                "7.07",
+                "13.15",
+                "2.38"
+            ],
+            "sidewalk_len": "191.89",
+            "unparkable_curb_sum": "86.25",
+            "parkable_curb_sum": "105.64",
+            "unparkable_ratio": "0.45",
+            "parkable_ratio": "0.55",
+            "curb_cut_sum": "7.17",
+            "paint_sum": "79.08",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.41"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "25.71",
+                "1.61",
+                "3.66",
+                "8.87",
+                "1.63"
+            ],
+            "sidewalk_len": "94.17",
+            "unparkable_curb_sum": "41.48",
+            "parkable_curb_sum": "52.69",
+            "unparkable_ratio": "0.44",
+            "parkable_ratio": "0.56",
+            "curb_cut_sum": "5.29",
+            "paint_sum": "36.19",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.38"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.91",
+                "6.46",
+                "19.10",
+                "1.73",
+                "10.99",
+                "0.92",
+                "5.82",
+                "18.04",
+                "5.04",
+                "19.83",
+                "1.48"
+            ],
+            "sidewalk_len": "133.23",
+            "unparkable_curb_sum": "91.32",
+            "parkable_curb_sum": "41.91",
+            "unparkable_ratio": "0.69",
+            "parkable_ratio": "0.31",
+            "curb_cut_sum": "25.24",
+            "paint_sum": "66.08",
+            "curb_cut_ratio": "0.19",
+            "paint_ratio": "0.50"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "8.91",
+                "6.42",
+                "1.92",
+                "1.70"
+            ],
+            "sidewalk_len": "39.71",
+            "unparkable_curb_sum": "18.95",
+            "parkable_curb_sum": "20.76",
+            "unparkable_ratio": "0.48",
+            "parkable_ratio": "0.52",
+            "curb_cut_sum": "1.92",
+            "paint_sum": "17.03",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.43"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.09",
+                "0.33",
+                "13.45",
+                "0.02",
+                "2.85",
+                "6.15",
+                "0.95",
+                "5.72",
+                "3.42",
+                "9.26",
+                "3.81",
+                "13.17",
+                "27.07",
+                "2.58"
+            ],
+            "sidewalk_len": "98.92",
+            "unparkable_curb_sum": "90.87",
+            "parkable_curb_sum": "8.05",
+            "unparkable_ratio": "0.92",
+            "parkable_ratio": "0.08",
+            "curb_cut_sum": "8.24",
+            "paint_sum": "82.63",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.84"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.00",
+                "2.33",
+                "5.07",
+                "3.59",
+                "3.27",
+                "10.61",
+                "1.90"
+            ],
+            "sidewalk_len": "47.21",
+            "unparkable_curb_sum": "28.77",
+            "parkable_curb_sum": "18.44",
+            "unparkable_ratio": "0.61",
+            "parkable_ratio": "0.39",
+            "curb_cut_sum": "17.58",
+            "paint_sum": "11.19",
+            "curb_cut_ratio": "0.37",
+            "paint_ratio": "0.24"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.44",
+                "3.87"
+            ],
+            "sidewalk_len": "28.46",
+            "unparkable_curb_sum": "7.31",
+            "parkable_curb_sum": "21.15",
+            "unparkable_ratio": "0.26",
+            "parkable_ratio": "0.74",
+            "curb_cut_sum": "3.87",
+            "paint_sum": "3.44",
+            "curb_cut_ratio": "0.14",
+            "paint_ratio": "0.12"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.78",
+                "1.91"
+            ],
+            "sidewalk_len": "45.16",
+            "unparkable_curb_sum": "3.69",
+            "parkable_curb_sum": "41.47",
+            "unparkable_ratio": "0.08",
+            "parkable_ratio": "0.92",
+            "curb_cut_sum": "3.69",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "6.39",
+                "53.70",
+                "0.62",
+                "3.61",
+                "1.20",
+                "6.07",
+                "0.52",
+                "7.13",
+                "1.67",
+                "6.97",
+                "11.66",
+                "2.84"
+            ],
+            "sidewalk_len": "136.43",
+            "unparkable_curb_sum": "102.38",
+            "parkable_curb_sum": "34.05",
+            "unparkable_ratio": "0.75",
+            "parkable_ratio": "0.25",
+            "curb_cut_sum": "13.58",
+            "paint_sum": "88.80",
+            "curb_cut_ratio": "0.10",
+            "paint_ratio": "0.65"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.86",
+                "2.64",
+                "12.32",
+                "5.23",
+                "35.93"
+            ],
+            "sidewalk_len": "65.09",
+            "unparkable_curb_sum": "58.98",
+            "parkable_curb_sum": "6.11",
+            "unparkable_ratio": "0.91",
+            "parkable_ratio": "0.09",
+            "curb_cut_sum": "2.86",
+            "paint_sum": "56.12",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.86"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.42",
+                "5.50"
+            ],
+            "sidewalk_len": "93.54",
+            "unparkable_curb_sum": "10.92",
+            "parkable_curb_sum": "82.62",
+            "unparkable_ratio": "0.12",
+            "parkable_ratio": "0.88",
+            "curb_cut_sum": "10.92",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.12",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.46"
+            ],
+            "sidewalk_len": "6.58",
+            "unparkable_curb_sum": "5.46",
+            "parkable_curb_sum": "1.12",
+            "unparkable_ratio": "0.83",
+            "parkable_ratio": "0.17",
+            "curb_cut_sum": "5.46",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.83",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "19.87",
+                "5.23",
+                "93.20",
+                "6.91",
+                "1.53"
+            ],
+            "sidewalk_len": "133.76",
+            "unparkable_curb_sum": "126.74",
+            "parkable_curb_sum": "7.02",
+            "unparkable_ratio": "0.95",
+            "parkable_ratio": "0.05",
+            "curb_cut_sum": "6.76",
+            "paint_sum": "119.98",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.90"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.07",
+                "2.90",
+                "5.15",
+                "2.22",
+                "0.09",
+                "3.26",
+                "0.19"
+            ],
+            "sidewalk_len": "51.67",
+            "unparkable_curb_sum": "18.88",
+            "parkable_curb_sum": "32.79",
+            "unparkable_ratio": "0.37",
+            "parkable_ratio": "0.63",
+            "curb_cut_sum": "8.41",
+            "paint_sum": "10.47",
+            "curb_cut_ratio": "0.16",
+            "paint_ratio": "0.20"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.47",
+                "33.75",
+                "2.37",
+                "3.21",
+                "2.10",
+                "1.27",
+                "1.37",
+                "20.48",
+                "13.11",
+                "3.73",
+                "2.06"
+            ],
+            "sidewalk_len": "135.07",
+            "unparkable_curb_sum": "84.92",
+            "parkable_curb_sum": "50.15",
+            "unparkable_ratio": "0.63",
+            "parkable_ratio": "0.37",
+            "curb_cut_sum": "8.01",
+            "paint_sum": "76.91",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.57"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "14.59",
+                "0.79",
+                "0.87",
+                "8.55",
+                "1.93",
+                "12.29",
+                "2.36"
+            ],
+            "sidewalk_len": "92.25",
+            "unparkable_curb_sum": "41.38",
+            "parkable_curb_sum": "50.87",
+            "unparkable_ratio": "0.45",
+            "parkable_ratio": "0.55",
+            "curb_cut_sum": "25.50",
+            "paint_sum": "15.88",
+            "curb_cut_ratio": "0.28",
+            "paint_ratio": "0.17"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.92",
+                "9.14",
+                "1.72",
+                "1.68"
+            ],
+            "sidewalk_len": "90.46",
+            "unparkable_curb_sum": "13.46",
+            "parkable_curb_sum": "77.00",
+            "unparkable_ratio": "0.15",
+            "parkable_ratio": "0.85",
+            "curb_cut_sum": "2.60",
+            "paint_sum": "10.86",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.12"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "32.53",
+                "6.37",
+                "12.35",
+                "14.93"
+            ],
+            "sidewalk_len": "74.96",
+            "unparkable_curb_sum": "66.18",
+            "parkable_curb_sum": "8.78",
+            "unparkable_ratio": "0.88",
+            "parkable_ratio": "0.12",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "66.18",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.88"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.02",
+                "11.51",
+                "5.95",
+                "11.29",
+                "13.21",
+                "13.04",
+                "13.78",
+                "14.35",
+                "7.37",
+                "2.15"
+            ],
+            "sidewalk_len": "124.95",
+            "unparkable_curb_sum": "95.67",
+            "parkable_curb_sum": "29.28",
+            "unparkable_ratio": "0.77",
+            "parkable_ratio": "0.23",
+            "curb_cut_sum": "11.12",
+            "paint_sum": "84.55",
+            "curb_cut_ratio": "0.09",
+            "paint_ratio": "0.68"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.36"
+            ],
+            "sidewalk_len": "91.13",
+            "unparkable_curb_sum": "2.36",
+            "parkable_curb_sum": "88.77",
+            "unparkable_ratio": "0.03",
+            "parkable_ratio": "0.97",
+            "curb_cut_sum": "2.36",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.70",
+                "0.82",
+                "10.74",
+                "3.68"
+            ],
+            "sidewalk_len": "95.28",
+            "unparkable_curb_sum": "16.94",
+            "parkable_curb_sum": "78.34",
+            "unparkable_ratio": "0.18",
+            "parkable_ratio": "0.82",
+            "curb_cut_sum": "14.42",
+            "paint_sum": "2.52",
+            "curb_cut_ratio": "0.15",
+            "paint_ratio": "0.03"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.13"
+            ],
+            "sidewalk_len": "95.39",
+            "unparkable_curb_sum": "4.13",
+            "parkable_curb_sum": "91.26",
+            "unparkable_ratio": "0.04",
+            "parkable_ratio": "0.96",
+            "curb_cut_sum": "4.13",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.00",
+                "15.28",
+                "7.70",
+                "13.62",
+                "2.04",
+                "3.32",
+                "3.61",
+                "6.85",
+                "31.20",
+                "0.98",
+                "2.67"
+            ],
+            "sidewalk_len": "95.53",
+            "unparkable_curb_sum": "90.27",
+            "parkable_curb_sum": "5.26",
+            "unparkable_ratio": "0.94",
+            "parkable_ratio": "0.06",
+            "curb_cut_sum": "5.99",
+            "paint_sum": "84.28",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.88"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.93",
+                "3.39",
+                "3.01",
+                "24.82",
+                "0.43"
+            ],
+            "sidewalk_len": "90.74",
+            "unparkable_curb_sum": "32.58",
+            "parkable_curb_sum": "58.16",
+            "unparkable_ratio": "0.36",
+            "parkable_ratio": "0.64",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "32.58",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.36"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.11",
+                "2.42",
+                "18.30",
+                "5.58",
+                "5.47",
+                "1.90",
+                "34.75",
+                "0.48",
+                "54.19",
+                "5.89"
+            ],
+            "sidewalk_len": "133.31",
+            "unparkable_curb_sum": "131.09",
+            "parkable_curb_sum": "2.22",
+            "unparkable_ratio": "0.98",
+            "parkable_ratio": "0.02",
+            "curb_cut_sum": "42.44",
+            "paint_sum": "88.65",
+            "curb_cut_ratio": "0.32",
+            "paint_ratio": "0.66"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.78",
+                "6.68",
+                "13.74",
+                "2.21",
+                "5.20",
+                "0.74",
+                "11.79",
+                "29.35",
+                "50.60",
+                "3.53",
+                "2.75"
+            ],
+            "sidewalk_len": "136.93",
+            "unparkable_curb_sum": "129.37",
+            "parkable_curb_sum": "7.56",
+            "unparkable_ratio": "0.94",
+            "parkable_ratio": "0.06",
+            "curb_cut_sum": "7.95",
+            "paint_sum": "121.42",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.89"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.40",
+                "23.31",
+                "45.91",
+                "1.39",
+                "14.78",
+                "1.95"
+            ],
+            "sidewalk_len": "132.69",
+            "unparkable_curb_sum": "89.74",
+            "parkable_curb_sum": "42.95",
+            "unparkable_ratio": "0.68",
+            "parkable_ratio": "0.32",
+            "curb_cut_sum": "19.13",
+            "paint_sum": "70.61",
+            "curb_cut_ratio": "0.14",
+            "paint_ratio": "0.53"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.70",
+                "5.05",
+                "13.39",
+                "0.92",
+                "6.04",
+                "5.68",
+                "9.90",
+                "1.54",
+                "15.65",
+                "35.52",
+                "9.56",
+                "13.65",
+                "4.10",
+                "3.03"
+            ],
+            "sidewalk_len": "134.01",
+            "unparkable_curb_sum": "128.73",
+            "parkable_curb_sum": "5.28",
+            "unparkable_ratio": "0.96",
+            "parkable_ratio": "0.04",
+            "curb_cut_sum": "18.97",
+            "paint_sum": "109.76",
+            "curb_cut_ratio": "0.14",
+            "paint_ratio": "0.82"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "15.17",
+                "7.42",
+                "5.42",
+                "1.53"
+            ],
+            "sidewalk_len": "73.31",
+            "unparkable_curb_sum": "29.54",
+            "parkable_curb_sum": "43.77",
+            "unparkable_ratio": "0.40",
+            "parkable_ratio": "0.60",
+            "curb_cut_sum": "1.53",
+            "paint_sum": "28.01",
+            "curb_cut_ratio": "0.02",
+            "paint_ratio": "0.38"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.65",
+                "4.00",
+                "29.93",
+                "2.24"
+            ],
+            "sidewalk_len": "89.38",
+            "unparkable_curb_sum": "41.82",
+            "parkable_curb_sum": "47.56",
+            "unparkable_ratio": "0.47",
+            "parkable_ratio": "0.53",
+            "curb_cut_sum": "7.89",
+            "paint_sum": "33.93",
+            "curb_cut_ratio": "0.09",
+            "paint_ratio": "0.38"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.10",
+                "18.46",
+                "3.39"
+            ],
+            "sidewalk_len": "96.72",
+            "unparkable_curb_sum": "25.95",
+            "parkable_curb_sum": "70.77",
+            "unparkable_ratio": "0.27",
+            "parkable_ratio": "0.73",
+            "curb_cut_sum": "7.49",
+            "paint_sum": "18.46",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.19"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "23.91",
+                "18.75",
+                "1.39",
+                "14.42",
+                "18.67",
+                "6.08",
+                "2.63"
+            ],
+            "sidewalk_len": "90.42",
+            "unparkable_curb_sum": "85.85",
+            "parkable_curb_sum": "4.57",
+            "unparkable_ratio": "0.95",
+            "parkable_ratio": "0.05",
+            "curb_cut_sum": "17.05",
+            "paint_sum": "68.80",
+            "curb_cut_ratio": "0.19",
+            "paint_ratio": "0.76"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.20"
+            ],
+            "sidewalk_len": "3.34",
+            "unparkable_curb_sum": "3.20",
+            "parkable_curb_sum": "0.14",
+            "unparkable_ratio": "0.96",
+            "parkable_ratio": "0.04",
+            "curb_cut_sum": "3.20",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.96",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "22.78",
+                "13.73",
+                "3.59",
+                "6.35",
+                "1.18",
+                "28.27",
+                "5.31"
+            ],
+            "sidewalk_len": "91.63",
+            "unparkable_curb_sum": "81.21",
+            "parkable_curb_sum": "10.42",
+            "unparkable_ratio": "0.89",
+            "parkable_ratio": "0.11",
+            "curb_cut_sum": "6.35",
+            "paint_sum": "74.86",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.82"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "22.74",
+                "3.48",
+                "47.98",
+                "9.94",
+                "40.95",
+                "3.14"
+            ],
+            "sidewalk_len": "132.27",
+            "unparkable_curb_sum": "128.23",
+            "parkable_curb_sum": "4.04",
+            "unparkable_ratio": "0.97",
+            "parkable_ratio": "0.03",
+            "curb_cut_sum": "16.56",
+            "paint_sum": "111.67",
+            "curb_cut_ratio": "0.13",
+            "paint_ratio": "0.84"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.39",
+                "2.19",
+                "48.31",
+                "5.75",
+                "4.72",
+                "3.31"
+            ],
+            "sidewalk_len": "128.79",
+            "unparkable_curb_sum": "66.67",
+            "parkable_curb_sum": "62.12",
+            "unparkable_ratio": "0.52",
+            "parkable_ratio": "0.48",
+            "curb_cut_sum": "7.89",
+            "paint_sum": "58.78",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.46"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.58",
+                "2.43",
+                "0.88",
+                "2.12",
+                "1.14",
+                "0.02",
+                "1.53"
+            ],
+            "sidewalk_len": "86.35",
+            "unparkable_curb_sum": "8.70",
+            "parkable_curb_sum": "77.65",
+            "unparkable_ratio": "0.10",
+            "parkable_ratio": "0.90",
+            "curb_cut_sum": "6.08",
+            "paint_sum": "2.62",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.03"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.03",
+                "5.20",
+                "9.42",
+                "6.96",
+                "16.26",
+                "22.09",
+                "2.78"
+            ],
+            "sidewalk_len": "97.39",
+            "unparkable_curb_sum": "66.74",
+            "parkable_curb_sum": "30.65",
+            "unparkable_ratio": "0.69",
+            "parkable_ratio": "0.31",
+            "curb_cut_sum": "13.77",
+            "paint_sum": "52.97",
+            "curb_cut_ratio": "0.14",
+            "paint_ratio": "0.54"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.43",
+                "2.45",
+                "32.24",
+                "8.04",
+                "6.99",
+                "5.98",
+                "9.39",
+                "2.78",
+                "11.74",
+                "0.67",
+                "6.77",
+                "0.92",
+                "2.22"
+            ],
+            "sidewalk_len": "95.34",
+            "unparkable_curb_sum": "93.62",
+            "parkable_curb_sum": "1.72",
+            "unparkable_ratio": "0.98",
+            "parkable_ratio": "0.02",
+            "curb_cut_sum": "24.38",
+            "paint_sum": "69.24",
+            "curb_cut_ratio": "0.26",
+            "paint_ratio": "0.73"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.56",
+                "23.30",
+                "7.37",
+                "2.33",
+                "6.42",
+                "2.68",
+                "6.19",
+                "13.14",
+                "2.67",
+                "21.10",
+                "14.52",
+                "19.15",
+                "7.71"
+            ],
+            "sidewalk_len": "133.54",
+            "unparkable_curb_sum": "129.14",
+            "parkable_curb_sum": "4.40",
+            "unparkable_ratio": "0.97",
+            "parkable_ratio": "0.03",
+            "curb_cut_sum": "15.17",
+            "paint_sum": "113.97",
+            "curb_cut_ratio": "0.11",
+            "paint_ratio": "0.85"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "29.67",
+                "9.65",
+                "3.78",
+                "6.20",
+                "22.86",
+                "1.33",
+                "3.06"
+            ],
+            "sidewalk_len": "92.64",
+            "unparkable_curb_sum": "76.55",
+            "parkable_curb_sum": "16.09",
+            "unparkable_ratio": "0.83",
+            "parkable_ratio": "0.17",
+            "curb_cut_sum": "6.84",
+            "paint_sum": "69.71",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.75"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.00",
+                "3.77",
+                "10.18",
+                "3.29",
+                "3.38"
+            ],
+            "sidewalk_len": "93.41",
+            "unparkable_curb_sum": "23.62",
+            "parkable_curb_sum": "69.79",
+            "unparkable_ratio": "0.25",
+            "parkable_ratio": "0.75",
+            "curb_cut_sum": "6.38",
+            "paint_sum": "17.24",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.18"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.33",
+                "56.33",
+                "2.43"
+            ],
+            "sidewalk_len": "67.28",
+            "unparkable_curb_sum": "62.09",
+            "parkable_curb_sum": "5.19",
+            "unparkable_ratio": "0.92",
+            "parkable_ratio": "0.08",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "62.09",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.92"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.42",
+                "5.36",
+                "1.05",
+                "1.07",
+                "3.15",
+                "1.32",
+                "2.75",
+                "2.45"
+            ],
+            "sidewalk_len": "93.95",
+            "unparkable_curb_sum": "19.57",
+            "parkable_curb_sum": "74.38",
+            "unparkable_ratio": "0.21",
+            "parkable_ratio": "0.79",
+            "curb_cut_sum": "5.60",
+            "paint_sum": "13.97",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.15"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "92.52"
+            ],
+            "sidewalk_len": "92.98",
+            "unparkable_curb_sum": "92.52",
+            "parkable_curb_sum": "0.46",
+            "unparkable_ratio": "1.00",
+            "parkable_ratio": "0.00",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "92.52",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "1.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.05",
+                "37.25",
+                "0.05",
+                "1.71",
+                "18.09",
+                "1.56",
+                "0.05",
+                "30.07",
+                "0.28",
+                "0.86",
+                "1.42",
+                "3.79"
+            ],
+            "sidewalk_len": "100.24",
+            "unparkable_curb_sum": "100.18",
+            "parkable_curb_sum": "0.06",
+            "unparkable_ratio": "1.00",
+            "parkable_ratio": "0.00",
+            "curb_cut_sum": "26.93",
+            "paint_sum": "73.25",
+            "curb_cut_ratio": "0.27",
+            "paint_ratio": "0.73"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.39",
+                "0.90",
+                "30.02",
+                "18.94",
+                "13.88"
+            ],
+            "sidewalk_len": "71.44",
+            "unparkable_curb_sum": "67.13",
+            "parkable_curb_sum": "4.31",
+            "unparkable_ratio": "0.94",
+            "parkable_ratio": "0.06",
+            "curb_cut_sum": "23.23",
+            "paint_sum": "43.90",
+            "curb_cut_ratio": "0.33",
+            "paint_ratio": "0.61"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.90",
+                "0.72",
+                "4.31",
+                "11.86",
+                "0.08",
+                "11.92",
+                "33.06"
+            ],
+            "sidewalk_len": "98.01",
+            "unparkable_curb_sum": "64.85",
+            "parkable_curb_sum": "33.16",
+            "unparkable_ratio": "0.66",
+            "parkable_ratio": "0.34",
+            "curb_cut_sum": "2.90",
+            "paint_sum": "61.95",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.63"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.45",
+                "8.19",
+                "9.19",
+                "2.42"
+            ],
+            "sidewalk_len": "64.46",
+            "unparkable_curb_sum": "23.25",
+            "parkable_curb_sum": "41.21",
+            "unparkable_ratio": "0.36",
+            "parkable_ratio": "0.64",
+            "curb_cut_sum": "2.42",
+            "paint_sum": "20.83",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.32"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "7.50",
+                "28.22",
+                "1.62",
+                "11.42",
+                "6.95",
+                "32.65",
+                "4.08"
+            ],
+            "sidewalk_len": "95.42",
+            "unparkable_curb_sum": "92.44",
+            "parkable_curb_sum": "2.98",
+            "unparkable_ratio": "0.97",
+            "parkable_ratio": "0.03",
+            "curb_cut_sum": "11.42",
+            "paint_sum": "81.02",
+            "curb_cut_ratio": "0.12",
+            "paint_ratio": "0.85"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.13",
+                "3.53",
+                "1.48",
+                "15.19",
+                "8.49",
+                "6.83",
+                "28.71",
+                "3.03",
+                "1.77"
+            ],
+            "sidewalk_len": "96.04",
+            "unparkable_curb_sum": "70.16",
+            "parkable_curb_sum": "25.88",
+            "unparkable_ratio": "0.73",
+            "parkable_ratio": "0.27",
+            "curb_cut_sum": "11.39",
+            "paint_sum": "58.77",
+            "curb_cut_ratio": "0.12",
+            "paint_ratio": "0.61"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.35"
+            ],
+            "sidewalk_len": "62.77",
+            "unparkable_curb_sum": "3.35",
+            "parkable_curb_sum": "59.42",
+            "unparkable_ratio": "0.05",
+            "parkable_ratio": "0.95",
+            "curb_cut_sum": "3.35",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.79",
+                "3.12",
+                "21.49",
+                "0.96",
+                "7.57",
+                "17.55",
+                "0.11",
+                "8.47"
+            ],
+            "sidewalk_len": "108.78",
+            "unparkable_curb_sum": "65.06",
+            "parkable_curb_sum": "43.72",
+            "unparkable_ratio": "0.60",
+            "parkable_ratio": "0.40",
+            "curb_cut_sum": "5.79",
+            "paint_sum": "59.27",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.54"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.22",
+                "3.47",
+                "23.35",
+                "0.74",
+                "0.96"
+            ],
+            "sidewalk_len": "48.09",
+            "unparkable_curb_sum": "33.74",
+            "parkable_curb_sum": "14.35",
+            "unparkable_ratio": "0.70",
+            "parkable_ratio": "0.30",
+            "curb_cut_sum": "0.96",
+            "paint_sum": "32.78",
+            "curb_cut_ratio": "0.02",
+            "paint_ratio": "0.68"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.67",
+                "24.43",
+                "3.28"
+            ],
+            "sidewalk_len": "92.39",
+            "unparkable_curb_sum": "31.38",
+            "parkable_curb_sum": "61.01",
+            "unparkable_ratio": "0.34",
+            "parkable_ratio": "0.66",
+            "curb_cut_sum": "6.95",
+            "paint_sum": "24.43",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.26"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.58"
+            ],
+            "sidewalk_len": "11.50",
+            "unparkable_curb_sum": "5.58",
+            "parkable_curb_sum": "5.92",
+            "unparkable_ratio": "0.49",
+            "parkable_ratio": "0.51",
+            "curb_cut_sum": "5.58",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.49",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.76",
+                "2.41",
+                "16.05",
+                "6.56",
+                "5.09",
+                "5.55",
+                "1.77",
+                "2.36",
+                "1.96"
+            ],
+            "sidewalk_len": "126.07",
+            "unparkable_curb_sum": "45.51",
+            "parkable_curb_sum": "80.56",
+            "unparkable_ratio": "0.36",
+            "parkable_ratio": "0.64",
+            "curb_cut_sum": "27.32",
+            "paint_sum": "18.19",
+            "curb_cut_ratio": "0.22",
+            "paint_ratio": "0.14"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "6.99",
+                "9.43",
+                "17.38"
+            ],
+            "sidewalk_len": "103.79",
+            "unparkable_curb_sum": "33.80",
+            "parkable_curb_sum": "69.99",
+            "unparkable_ratio": "0.33",
+            "parkable_ratio": "0.67",
+            "curb_cut_sum": "9.43",
+            "paint_sum": "24.37",
+            "curb_cut_ratio": "0.09",
+            "paint_ratio": "0.23"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "17.15",
+                "31.24",
+                "1.60",
+                "9.02",
+                "3.25",
+                "32.33",
+                "4.43"
+            ],
+            "sidewalk_len": "100.34",
+            "unparkable_curb_sum": "99.02",
+            "parkable_curb_sum": "1.32",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "9.02",
+            "paint_sum": "90.00",
+            "curb_cut_ratio": "0.09",
+            "paint_ratio": "0.90"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "8.06",
+                "11.00",
+                "14.80",
+                "2.73",
+                "9.39",
+                "4.63",
+                "1.36",
+                "2.66",
+                "1.51",
+                "4.86",
+                "19.65",
+                "3.60",
+                "3.97"
+            ],
+            "sidewalk_len": "91.94",
+            "unparkable_curb_sum": "88.22",
+            "parkable_curb_sum": "3.72",
+            "unparkable_ratio": "0.96",
+            "parkable_ratio": "0.04",
+            "curb_cut_sum": "34.12",
+            "paint_sum": "54.10",
+            "curb_cut_ratio": "0.37",
+            "paint_ratio": "0.59"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "39.97",
+                "55.76",
+                "25.62"
+            ],
+            "sidewalk_len": "127.95",
+            "unparkable_curb_sum": "121.35",
+            "parkable_curb_sum": "6.60",
+            "unparkable_ratio": "0.95",
+            "parkable_ratio": "0.05",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "121.35",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.95"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.80",
+                "29.66",
+                "2.17"
+            ],
+            "sidewalk_len": "89.67",
+            "unparkable_curb_sum": "34.63",
+            "parkable_curb_sum": "55.04",
+            "unparkable_ratio": "0.39",
+            "parkable_ratio": "0.61",
+            "curb_cut_sum": "4.97",
+            "paint_sum": "29.66",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.33"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.08"
+            ],
+            "sidewalk_len": "14.77",
+            "unparkable_curb_sum": "3.08",
+            "parkable_curb_sum": "11.69",
+            "unparkable_ratio": "0.21",
+            "parkable_ratio": "0.79",
+            "curb_cut_sum": "3.08",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.21",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "41.71",
+                "44.78",
+                "3.98",
+                "0.64"
+            ],
+            "sidewalk_len": "94.55",
+            "unparkable_curb_sum": "91.11",
+            "parkable_curb_sum": "3.44",
+            "unparkable_ratio": "0.96",
+            "parkable_ratio": "0.04",
+            "curb_cut_sum": "0.64",
+            "paint_sum": "90.47",
+            "curb_cut_ratio": "0.01",
+            "paint_ratio": "0.96"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.82",
+                "0.33",
+                "10.37",
+                "3.89"
+            ],
+            "sidewalk_len": "93.78",
+            "unparkable_curb_sum": "18.41",
+            "parkable_curb_sum": "75.37",
+            "unparkable_ratio": "0.20",
+            "parkable_ratio": "0.80",
+            "curb_cut_sum": "18.08",
+            "paint_sum": "0.33",
+            "curb_cut_ratio": "0.19",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.24",
+                "4.08"
+            ],
+            "sidewalk_len": "66.87",
+            "unparkable_curb_sum": "8.32",
+            "parkable_curb_sum": "58.55",
+            "unparkable_ratio": "0.12",
+            "parkable_ratio": "0.88",
+            "curb_cut_sum": "8.32",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.12",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.51",
+                "5.34",
+                "34.85",
+                "4.56",
+                "0.54"
+            ],
+            "sidewalk_len": "94.60",
+            "unparkable_curb_sum": "50.80",
+            "parkable_curb_sum": "43.80",
+            "unparkable_ratio": "0.54",
+            "parkable_ratio": "0.46",
+            "curb_cut_sum": "10.07",
+            "paint_sum": "40.73",
+            "curb_cut_ratio": "0.11",
+            "paint_ratio": "0.43"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "8.74",
+                "9.20",
+                "2.65",
+                "32.94",
+                "1.52",
+                "40.28",
+                "3.83"
+            ],
+            "sidewalk_len": "100.04",
+            "unparkable_curb_sum": "99.16",
+            "parkable_curb_sum": "0.88",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "36.77",
+            "paint_sum": "62.39",
+            "curb_cut_ratio": "0.37",
+            "paint_ratio": "0.62"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.14",
+                "6.90",
+                "34.85",
+                "4.46",
+                "41.98",
+                "21.48",
+                "9.81",
+                "2.29"
+            ],
+            "sidewalk_len": "126.70",
+            "unparkable_curb_sum": "122.91",
+            "parkable_curb_sum": "3.79",
+            "unparkable_ratio": "0.97",
+            "parkable_ratio": "0.03",
+            "curb_cut_sum": "3.43",
+            "paint_sum": "119.48",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.94"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.56",
+                "3.89"
+            ],
+            "sidewalk_len": "92.26",
+            "unparkable_curb_sum": "7.45",
+            "parkable_curb_sum": "84.81",
+            "unparkable_ratio": "0.08",
+            "parkable_ratio": "0.92",
+            "curb_cut_sum": "7.45",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.65",
+                "21.94",
+                "10.28",
+                "1.63",
+                "1.06"
+            ],
+            "sidewalk_len": "82.54",
+            "unparkable_curb_sum": "36.56",
+            "parkable_curb_sum": "45.98",
+            "unparkable_ratio": "0.44",
+            "parkable_ratio": "0.56",
+            "curb_cut_sum": "4.34",
+            "paint_sum": "32.22",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.39"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.80",
+                "0.84",
+                "7.32",
+                "12.48",
+                "4.85"
+            ],
+            "sidewalk_len": "94.77",
+            "unparkable_curb_sum": "27.29",
+            "parkable_curb_sum": "67.48",
+            "unparkable_ratio": "0.29",
+            "parkable_ratio": "0.71",
+            "curb_cut_sum": "1.80",
+            "paint_sum": "25.49",
+            "curb_cut_ratio": "0.02",
+            "paint_ratio": "0.27"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.42",
+                "5.11",
+                "80.33",
+                "1.62",
+                "2.16"
+            ],
+            "sidewalk_len": "91.50",
+            "unparkable_curb_sum": "90.64",
+            "parkable_curb_sum": "0.86",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "3.58",
+            "paint_sum": "87.06",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.95"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.96",
+                "38.38",
+                "61.74",
+                "0.77",
+                "0.34"
+            ],
+            "sidewalk_len": "103.81",
+            "unparkable_curb_sum": "102.19",
+            "parkable_curb_sum": "1.62",
+            "unparkable_ratio": "0.98",
+            "parkable_ratio": "0.02",
+            "curb_cut_sum": "1.30",
+            "paint_sum": "100.89",
+            "curb_cut_ratio": "0.01",
+            "paint_ratio": "0.97"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.21",
+                "0.84",
+                "2.63",
+                "10.07",
+                "2.36",
+                "5.01",
+                "20.53"
+            ],
+            "sidewalk_len": "96.29",
+            "unparkable_curb_sum": "42.65",
+            "parkable_curb_sum": "53.64",
+            "unparkable_ratio": "0.44",
+            "parkable_ratio": "0.56",
+            "curb_cut_sum": "11.28",
+            "paint_sum": "31.37",
+            "curb_cut_ratio": "0.12",
+            "paint_ratio": "0.33"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.11",
+                "1.44",
+                "7.51",
+                "6.83",
+                "1.25",
+                "9.20",
+                "41.33",
+                "2.48",
+                "3.11"
+            ],
+            "sidewalk_len": "96.03",
+            "unparkable_curb_sum": "76.26",
+            "parkable_curb_sum": "19.77",
+            "unparkable_ratio": "0.79",
+            "parkable_ratio": "0.21",
+            "curb_cut_sum": "15.42",
+            "paint_sum": "60.84",
+            "curb_cut_ratio": "0.16",
+            "paint_ratio": "0.63"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.15",
+                "0.86",
+                "5.22",
+                "21.77",
+                "20.04",
+                "1.81",
+                "7.03",
+                "1.83",
+                "39.20",
+                "6.81",
+                "2.90"
+            ],
+            "sidewalk_len": "133.78",
+            "unparkable_curb_sum": "108.62",
+            "parkable_curb_sum": "25.16",
+            "unparkable_ratio": "0.81",
+            "parkable_ratio": "0.19",
+            "curb_cut_sum": "15.15",
+            "paint_sum": "93.47",
+            "curb_cut_ratio": "0.11",
+            "paint_ratio": "0.70"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.68",
+                "1.70",
+                "1.82",
+                "3.93",
+                "4.43",
+                "1.24",
+                "4.48",
+                "1.21",
+                "4.92"
+            ],
+            "sidewalk_len": "98.52",
+            "unparkable_curb_sum": "28.41",
+            "parkable_curb_sum": "70.11",
+            "unparkable_ratio": "0.29",
+            "parkable_ratio": "0.71",
+            "curb_cut_sum": "18.01",
+            "paint_sum": "10.40",
+            "curb_cut_ratio": "0.18",
+            "paint_ratio": "0.11"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.35",
+                "2.93",
+                "11.96",
+                "3.27",
+                "3.52"
+            ],
+            "sidewalk_len": "98.00",
+            "unparkable_curb_sum": "25.03",
+            "parkable_curb_sum": "72.97",
+            "unparkable_ratio": "0.26",
+            "parkable_ratio": "0.74",
+            "curb_cut_sum": "15.31",
+            "paint_sum": "9.72",
+            "curb_cut_ratio": "0.16",
+            "paint_ratio": "0.10"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.12",
+                "1.26"
+            ],
+            "sidewalk_len": "89.89",
+            "unparkable_curb_sum": "3.38",
+            "parkable_curb_sum": "86.51",
+            "unparkable_ratio": "0.04",
+            "parkable_ratio": "0.96",
+            "curb_cut_sum": "1.26",
+            "paint_sum": "2.12",
+            "curb_cut_ratio": "0.01",
+            "paint_ratio": "0.02"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.50",
+                "2.70",
+                "40.04",
+                "14.95",
+                "34.07"
+            ],
+            "sidewalk_len": "94.52",
+            "unparkable_curb_sum": "93.26",
+            "parkable_curb_sum": "1.26",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "1.50",
+            "paint_sum": "91.76",
+            "curb_cut_ratio": "0.02",
+            "paint_ratio": "0.97"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.47",
+                "38.04",
+                "2.83",
+                "10.32",
+                "1.43",
+                "9.45",
+                "29.84",
+                "2.40"
+            ],
+            "sidewalk_len": "99.29",
+            "unparkable_curb_sum": "95.78",
+            "parkable_curb_sum": "3.51",
+            "unparkable_ratio": "0.96",
+            "parkable_ratio": "0.04",
+            "curb_cut_sum": "19.77",
+            "paint_sum": "76.01",
+            "curb_cut_ratio": "0.20",
+            "paint_ratio": "0.77"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.26",
+                "35.62",
+                "1.40",
+                "12.95",
+                "2.47",
+                "27.99",
+                "5.05"
+            ],
+            "sidewalk_len": "93.24",
+            "unparkable_curb_sum": "89.74",
+            "parkable_curb_sum": "3.50",
+            "unparkable_ratio": "0.96",
+            "parkable_ratio": "0.04",
+            "curb_cut_sum": "22.26",
+            "paint_sum": "67.48",
+            "curb_cut_ratio": "0.24",
+            "paint_ratio": "0.72"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.12",
+                "2.40",
+                "0.97",
+                "6.56",
+                "14.62",
+                "1.84",
+                "9.23",
+                "2.94",
+                "37.26",
+                "1.87",
+                "1.64"
+            ],
+            "sidewalk_len": "98.13",
+            "unparkable_curb_sum": "79.45",
+            "parkable_curb_sum": "18.68",
+            "unparkable_ratio": "0.81",
+            "parkable_ratio": "0.19",
+            "curb_cut_sum": "13.27",
+            "paint_sum": "66.18",
+            "curb_cut_ratio": "0.14",
+            "paint_ratio": "0.67"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "15.92",
+                "25.79",
+                "4.01"
+            ],
+            "sidewalk_len": "96.12",
+            "unparkable_curb_sum": "45.72",
+            "parkable_curb_sum": "50.40",
+            "unparkable_ratio": "0.48",
+            "parkable_ratio": "0.52",
+            "curb_cut_sum": "4.01",
+            "paint_sum": "41.71",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.43"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "27.73",
+                "23.65",
+                "2.69",
+                "4.05",
+                "61.50",
+                "3.18",
+                "2.50"
+            ],
+            "sidewalk_len": "128.25",
+            "unparkable_curb_sum": "125.30",
+            "parkable_curb_sum": "2.95",
+            "unparkable_ratio": "0.98",
+            "parkable_ratio": "0.02",
+            "curb_cut_sum": "5.19",
+            "paint_sum": "120.11",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.94"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.13",
+                "1.40",
+                "4.06"
+            ],
+            "sidewalk_len": "19.54",
+            "unparkable_curb_sum": "8.59",
+            "parkable_curb_sum": "10.95",
+            "unparkable_ratio": "0.44",
+            "parkable_ratio": "0.56",
+            "curb_cut_sum": "8.59",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.44",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.62",
+                "4.18",
+                "5.85",
+                "55.52",
+                "0.25",
+                "3.46",
+                "5.66",
+                "6.39",
+                "0.40",
+                "4.45"
+            ],
+            "sidewalk_len": "93.09",
+            "unparkable_curb_sum": "87.78",
+            "parkable_curb_sum": "5.31",
+            "unparkable_ratio": "0.94",
+            "parkable_ratio": "0.06",
+            "curb_cut_sum": "9.53",
+            "paint_sum": "78.25",
+            "curb_cut_ratio": "0.10",
+            "paint_ratio": "0.84"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.45",
+                "78.09",
+                "5.30",
+                "15.00"
+            ],
+            "sidewalk_len": "109.84",
+            "unparkable_curb_sum": "100.84",
+            "parkable_curb_sum": "9.00",
+            "unparkable_ratio": "0.92",
+            "parkable_ratio": "0.08",
+            "curb_cut_sum": "22.75",
+            "paint_sum": "78.09",
+            "curb_cut_ratio": "0.21",
+            "paint_ratio": "0.71"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.09",
+                "7.45",
+                "48.69",
+                "26.83",
+                "18.85",
+                "7.38",
+                "0.13",
+                "6.17",
+                "2.98"
+            ],
+            "sidewalk_len": "128.24",
+            "unparkable_curb_sum": "122.57",
+            "parkable_curb_sum": "5.67",
+            "unparkable_ratio": "0.96",
+            "parkable_ratio": "0.04",
+            "curb_cut_sum": "7.07",
+            "paint_sum": "115.50",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.90"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.54",
+                "88.72",
+                "3.25"
+            ],
+            "sidewalk_len": "96.66",
+            "unparkable_curb_sum": "95.51",
+            "parkable_curb_sum": "1.15",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "6.79",
+            "paint_sum": "88.72",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.92"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "70.08",
+                "6.77",
+                "0.86",
+                "45.67",
+                "3.25",
+                "2.95"
+            ],
+            "sidewalk_len": "134.43",
+            "unparkable_curb_sum": "129.58",
+            "parkable_curb_sum": "4.85",
+            "unparkable_ratio": "0.96",
+            "parkable_ratio": "0.04",
+            "curb_cut_sum": "9.72",
+            "paint_sum": "119.86",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.89"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.58",
+                "3.98",
+                "1.32",
+                "4.68",
+                "10.01"
+            ],
+            "sidewalk_len": "103.16",
+            "unparkable_curb_sum": "22.57",
+            "parkable_curb_sum": "80.59",
+            "unparkable_ratio": "0.22",
+            "parkable_ratio": "0.78",
+            "curb_cut_sum": "7.26",
+            "paint_sum": "15.31",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.15"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.93",
+                "1.23",
+                "34.11",
+                "34.07",
+                "5.90",
+                "4.22",
+                "3.75"
+            ],
+            "sidewalk_len": "90.98",
+            "unparkable_curb_sum": "85.21",
+            "parkable_curb_sum": "5.77",
+            "unparkable_ratio": "0.94",
+            "parkable_ratio": "0.06",
+            "curb_cut_sum": "4.98",
+            "paint_sum": "80.23",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.88"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.66",
+                "2.49",
+                "1.35",
+                "8.91",
+                "1.16",
+                "12.33",
+                "1.39",
+                "6.43",
+                "2.28"
+            ],
+            "sidewalk_len": "97.33",
+            "unparkable_curb_sum": "40.00",
+            "parkable_curb_sum": "57.33",
+            "unparkable_ratio": "0.41",
+            "parkable_ratio": "0.59",
+            "curb_cut_sum": "21.28",
+            "paint_sum": "18.72",
+            "curb_cut_ratio": "0.22",
+            "paint_ratio": "0.19"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.02",
+                "0.56"
+            ],
+            "sidewalk_len": "70.46",
+            "unparkable_curb_sum": "3.58",
+            "parkable_curb_sum": "66.88",
+            "unparkable_ratio": "0.05",
+            "parkable_ratio": "0.95",
+            "curb_cut_sum": "3.58",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "35.73",
+                "14.23"
+            ],
+            "sidewalk_len": "52.06",
+            "unparkable_curb_sum": "49.96",
+            "parkable_curb_sum": "2.10",
+            "unparkable_ratio": "0.96",
+            "parkable_ratio": "0.04",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "49.96",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.96"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.74",
+                "3.34",
+                "8.23",
+                "2.04",
+                "2.88"
+            ],
+            "sidewalk_len": "93.34",
+            "unparkable_curb_sum": "17.23",
+            "parkable_curb_sum": "76.11",
+            "unparkable_ratio": "0.18",
+            "parkable_ratio": "0.82",
+            "curb_cut_sum": "8.97",
+            "paint_sum": "8.26",
+            "curb_cut_ratio": "0.10",
+            "paint_ratio": "0.09"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.47",
+                "4.20"
+            ],
+            "sidewalk_len": "87.13",
+            "unparkable_curb_sum": "8.67",
+            "parkable_curb_sum": "78.46",
+            "unparkable_ratio": "0.10",
+            "parkable_ratio": "0.90",
+            "curb_cut_sum": "8.67",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.10",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.21",
+                "2.15",
+                "1.12",
+                "6.78",
+                "1.52",
+                "3.00",
+                "2.03",
+                "10.66",
+                "2.05",
+                "10.78",
+                "8.17",
+                "7.82",
+                "1.26",
+                "2.93",
+                "1.45",
+                "8.61",
+                "6.39",
+                "6.14",
+                "4.43"
+            ],
+            "sidewalk_len": "92.22",
+            "unparkable_curb_sum": "91.50",
+            "parkable_curb_sum": "0.72",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "41.77",
+            "paint_sum": "49.73",
+            "curb_cut_ratio": "0.45",
+            "paint_ratio": "0.54"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "31.05",
+                "0.55",
+                "10.46",
+                "7.80",
+                "8.25",
+                "1.35",
+                "3.18"
+            ],
+            "sidewalk_len": "131.23",
+            "unparkable_curb_sum": "62.64",
+            "parkable_curb_sum": "68.59",
+            "unparkable_ratio": "0.48",
+            "parkable_ratio": "0.52",
+            "curb_cut_sum": "8.25",
+            "paint_sum": "54.39",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.41"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.61",
+                "27.21",
+                "14.82",
+                "14.66",
+                "3.22",
+                "24.92",
+                "2.53",
+                "2.47"
+            ],
+            "sidewalk_len": "95.15",
+            "unparkable_curb_sum": "94.44",
+            "parkable_curb_sum": "0.71",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "7.08",
+            "paint_sum": "87.36",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.92"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "23.37",
+                "5.66",
+                "16.30",
+                "6.47",
+                "1.09"
+            ],
+            "sidewalk_len": "53.35",
+            "unparkable_curb_sum": "52.89",
+            "parkable_curb_sum": "0.46",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "52.89",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.99"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "33.06",
+                "2.86",
+                "2.82",
+                "2.96",
+                "4.65",
+                "2.30",
+                "35.58",
+                "7.35",
+                "5.88",
+                "2.50",
+                "3.36"
+            ],
+            "sidewalk_len": "125.15",
+            "unparkable_curb_sum": "103.32",
+            "parkable_curb_sum": "21.83",
+            "unparkable_ratio": "0.83",
+            "parkable_ratio": "0.17",
+            "curb_cut_sum": "46.45",
+            "paint_sum": "56.87",
+            "curb_cut_ratio": "0.37",
+            "paint_ratio": "0.45"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "39.08",
+                "0.30",
+                "1.91",
+                "0.67",
+                "6.80",
+                "1.02",
+                "0.07",
+                "4.53",
+                "1.75"
+            ],
+            "sidewalk_len": "91.36",
+            "unparkable_curb_sum": "56.13",
+            "parkable_curb_sum": "35.23",
+            "unparkable_ratio": "0.61",
+            "parkable_ratio": "0.39",
+            "curb_cut_sum": "47.63",
+            "paint_sum": "8.50",
+            "curb_cut_ratio": "0.52",
+            "paint_ratio": "0.09"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.89",
+                "3.93",
+                "2.74",
+                "7.55",
+                "1.93",
+                "1.99",
+                "1.63"
+            ],
+            "sidewalk_len": "96.46",
+            "unparkable_curb_sum": "20.66",
+            "parkable_curb_sum": "75.80",
+            "unparkable_ratio": "0.21",
+            "parkable_ratio": "0.79",
+            "curb_cut_sum": "10.07",
+            "paint_sum": "10.59",
+            "curb_cut_ratio": "0.10",
+            "paint_ratio": "0.11"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.56",
+                "3.12",
+                "21.20",
+                "3.32"
+            ],
+            "sidewalk_len": "95.75",
+            "unparkable_curb_sum": "31.20",
+            "parkable_curb_sum": "64.55",
+            "unparkable_ratio": "0.33",
+            "parkable_ratio": "0.67",
+            "curb_cut_sum": "6.88",
+            "paint_sum": "24.32",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.25"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.69",
+                "2.90",
+                "1.47",
+                "6.72",
+                "2.29",
+                "3.33",
+                "1.48",
+                "2.52",
+                "3.29",
+                "7.86",
+                "1.63"
+            ],
+            "sidewalk_len": "136.08",
+            "unparkable_curb_sum": "35.18",
+            "parkable_curb_sum": "100.90",
+            "unparkable_ratio": "0.26",
+            "parkable_ratio": "0.74",
+            "curb_cut_sum": "13.54",
+            "paint_sum": "21.64",
+            "curb_cut_ratio": "0.10",
+            "paint_ratio": "0.16"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.67",
+                "5.93",
+                "78.70",
+                "4.50"
+            ],
+            "sidewalk_len": "95.30",
+            "unparkable_curb_sum": "93.80",
+            "parkable_curb_sum": "1.50",
+            "unparkable_ratio": "0.98",
+            "parkable_ratio": "0.02",
+            "curb_cut_sum": "9.17",
+            "paint_sum": "84.63",
+            "curb_cut_ratio": "0.10",
+            "paint_ratio": "0.89"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.01",
+                "13.14",
+                "4.87",
+                "13.60",
+                "5.88",
+                "5.05",
+                "0.04",
+                "9.58"
+            ],
+            "sidewalk_len": "93.31",
+            "unparkable_curb_sum": "54.17",
+            "parkable_curb_sum": "39.14",
+            "unparkable_ratio": "0.58",
+            "parkable_ratio": "0.42",
+            "curb_cut_sum": "7.06",
+            "paint_sum": "47.11",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.50"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.74",
+                "8.72",
+                "42.09",
+                "2.99",
+                "35.99",
+                "1.99"
+            ],
+            "sidewalk_len": "95.08",
+            "unparkable_curb_sum": "93.52",
+            "parkable_curb_sum": "1.56",
+            "unparkable_ratio": "0.98",
+            "parkable_ratio": "0.02",
+            "curb_cut_sum": "3.73",
+            "paint_sum": "89.79",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.94"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.74",
+                "1.17",
+                "14.53",
+                "1.21"
+            ],
+            "sidewalk_len": "94.71",
+            "unparkable_curb_sum": "17.65",
+            "parkable_curb_sum": "77.06",
+            "unparkable_ratio": "0.19",
+            "parkable_ratio": "0.81",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "17.65",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.19"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.23",
+                "18.48",
+                "6.70"
+            ],
+            "sidewalk_len": "66.66",
+            "unparkable_curb_sum": "29.41",
+            "parkable_curb_sum": "37.25",
+            "unparkable_ratio": "0.44",
+            "parkable_ratio": "0.56",
+            "curb_cut_sum": "4.23",
+            "paint_sum": "25.18",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.38"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.22",
+                "2.54"
+            ],
+            "sidewalk_len": "119.03",
+            "unparkable_curb_sum": "5.76",
+            "parkable_curb_sum": "113.27",
+            "unparkable_ratio": "0.05",
+            "parkable_ratio": "0.95",
+            "curb_cut_sum": "5.76",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.83",
+                "2.00"
+            ],
+            "sidewalk_len": "89.79",
+            "unparkable_curb_sum": "7.83",
+            "parkable_curb_sum": "81.96",
+            "unparkable_ratio": "0.09",
+            "parkable_ratio": "0.91",
+            "curb_cut_sum": "7.83",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.09",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.17",
+                "15.20",
+                "8.60",
+                "14.09",
+                "1.83"
+            ],
+            "sidewalk_len": "90.88",
+            "unparkable_curb_sum": "42.89",
+            "parkable_curb_sum": "47.99",
+            "unparkable_ratio": "0.47",
+            "parkable_ratio": "0.53",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "42.89",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.47"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.28",
+                "6.64",
+                "2.23",
+                "4.39",
+                "0.76",
+                "2.91",
+                "5.01",
+                "3.90",
+                "5.08",
+                "12.89",
+                "1.99",
+                "0.26",
+                "2.32",
+                "23.60",
+                "3.29",
+                "4.24",
+                "5.13",
+                "1.78",
+                "14.92",
+                "6.33"
+            ],
+            "sidewalk_len": "126.16",
+            "unparkable_curb_sum": "108.95",
+            "parkable_curb_sum": "17.21",
+            "unparkable_ratio": "0.86",
+            "parkable_ratio": "0.14",
+            "curb_cut_sum": "23.42",
+            "paint_sum": "85.53",
+            "curb_cut_ratio": "0.19",
+            "paint_ratio": "0.68"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "7.22",
+                "61.47",
+                "15.01",
+                "6.86"
+            ],
+            "sidewalk_len": "93.59",
+            "unparkable_curb_sum": "90.56",
+            "parkable_curb_sum": "3.03",
+            "unparkable_ratio": "0.97",
+            "parkable_ratio": "0.03",
+            "curb_cut_sum": "22.23",
+            "paint_sum": "68.33",
+            "curb_cut_ratio": "0.24",
+            "paint_ratio": "0.73"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "60.96",
+                "2.91",
+                "7.35",
+                "5.06",
+                "3.01",
+                "11.93",
+                "4.06"
+            ],
+            "sidewalk_len": "132.50",
+            "unparkable_curb_sum": "95.28",
+            "parkable_curb_sum": "37.22",
+            "unparkable_ratio": "0.72",
+            "parkable_ratio": "0.28",
+            "curb_cut_sum": "7.97",
+            "paint_sum": "87.31",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.66"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.70",
+                "0.51",
+                "7.78",
+                "1.07"
+            ],
+            "sidewalk_len": "57.37",
+            "unparkable_curb_sum": "12.06",
+            "parkable_curb_sum": "45.31",
+            "unparkable_ratio": "0.21",
+            "parkable_ratio": "0.79",
+            "curb_cut_sum": "2.70",
+            "paint_sum": "9.36",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.16"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.73"
+            ],
+            "sidewalk_len": "93.13",
+            "unparkable_curb_sum": "2.73",
+            "parkable_curb_sum": "90.40",
+            "unparkable_ratio": "0.03",
+            "parkable_ratio": "0.97",
+            "curb_cut_sum": "2.73",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.72",
+                "1.72",
+                "2.79",
+                "3.13",
+                "3.51",
+                "1.24",
+                "3.59",
+                "1.14",
+                "4.44",
+                "5.04",
+                "5.52",
+                "2.53"
+            ],
+            "sidewalk_len": "135.14",
+            "unparkable_curb_sum": "36.37",
+            "parkable_curb_sum": "98.77",
+            "unparkable_ratio": "0.27",
+            "parkable_ratio": "0.73",
+            "curb_cut_sum": "10.97",
+            "paint_sum": "25.40",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.19"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "8.63",
+                "20.83",
+                "9.15",
+                "6.04",
+                "9.22",
+                "2.18",
+                "6.53",
+                "24.16",
+                "6.03",
+                "12.99",
+                "3.98",
+                "2.17"
+            ],
+            "sidewalk_len": "128.77",
+            "unparkable_curb_sum": "111.91",
+            "parkable_curb_sum": "16.86",
+            "unparkable_ratio": "0.87",
+            "parkable_ratio": "0.13",
+            "curb_cut_sum": "14.73",
+            "paint_sum": "97.18",
+            "curb_cut_ratio": "0.11",
+            "paint_ratio": "0.75"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "35.12",
+                "1.56",
+                "33.49",
+                "1.33"
+            ],
+            "sidewalk_len": "101.41",
+            "unparkable_curb_sum": "71.50",
+            "parkable_curb_sum": "29.91",
+            "unparkable_ratio": "0.71",
+            "parkable_ratio": "0.29",
+            "curb_cut_sum": "2.89",
+            "paint_sum": "68.61",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.68"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.72",
+                "14.57",
+                "20.18",
+                "3.25",
+                "8.26",
+                "1.56",
+                "35.60",
+                "2.53",
+                "2.43"
+            ],
+            "sidewalk_len": "96.67",
+            "unparkable_curb_sum": "90.10",
+            "parkable_curb_sum": "6.57",
+            "unparkable_ratio": "0.93",
+            "parkable_ratio": "0.07",
+            "curb_cut_sum": "10.69",
+            "paint_sum": "79.41",
+            "curb_cut_ratio": "0.11",
+            "paint_ratio": "0.82"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.12",
+                "6.26",
+                "14.47",
+                "9.44",
+                "4.46",
+                "21.03",
+                "1.57"
+            ],
+            "sidewalk_len": "91.10",
+            "unparkable_curb_sum": "61.35",
+            "parkable_curb_sum": "29.75",
+            "unparkable_ratio": "0.67",
+            "parkable_ratio": "0.33",
+            "curb_cut_sum": "9.44",
+            "paint_sum": "51.91",
+            "curb_cut_ratio": "0.10",
+            "paint_ratio": "0.57"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.73",
+                "0.75",
+                "2.36",
+                "3.55"
+            ],
+            "sidewalk_len": "82.69",
+            "unparkable_curb_sum": "11.39",
+            "parkable_curb_sum": "71.30",
+            "unparkable_ratio": "0.14",
+            "parkable_ratio": "0.86",
+            "curb_cut_sum": "3.55",
+            "paint_sum": "7.84",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.09"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.60",
+                "42.68",
+                "3.24",
+                "4.42",
+                "2.93",
+                "29.57",
+                "1.08",
+                "0.17",
+                "0.32",
+                "1.05",
+                "2.19",
+                "0.01"
+            ],
+            "sidewalk_len": "97.99",
+            "unparkable_curb_sum": "90.26",
+            "parkable_curb_sum": "7.73",
+            "unparkable_ratio": "0.92",
+            "parkable_ratio": "0.08",
+            "curb_cut_sum": "9.21",
+            "paint_sum": "81.05",
+            "curb_cut_ratio": "0.09",
+            "paint_ratio": "0.83"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.13",
+                "2.04",
+                "4.83",
+                "1.95",
+                "1.30",
+                "10.26",
+                "3.32",
+                "6.70",
+                "4.00",
+                "6.23",
+                "0.87",
+                "7.50",
+                "0.67",
+                "12.40",
+                "0.79",
+                "5.76",
+                "1.17",
+                "19.32",
+                "1.31",
+                "11.26",
+                "3.41",
+                "13.16",
+                "7.21",
+                "2.35",
+                "5.39"
+            ],
+            "sidewalk_len": "197.28",
+            "unparkable_curb_sum": "137.33",
+            "parkable_curb_sum": "59.95",
+            "unparkable_ratio": "0.70",
+            "parkable_ratio": "0.30",
+            "curb_cut_sum": "49.13",
+            "paint_sum": "88.20",
+            "curb_cut_ratio": "0.25",
+            "paint_ratio": "0.45"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.16"
+            ],
+            "sidewalk_len": "71.43",
+            "unparkable_curb_sum": "3.16",
+            "parkable_curb_sum": "68.27",
+            "unparkable_ratio": "0.04",
+            "parkable_ratio": "0.96",
+            "curb_cut_sum": "3.16",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.53",
+                "24.48",
+                "6.43",
+                "8.26",
+                "8.94",
+                "9.47",
+                "1.22"
+            ],
+            "sidewalk_len": "94.20",
+            "unparkable_curb_sum": "61.33",
+            "parkable_curb_sum": "32.87",
+            "unparkable_ratio": "0.65",
+            "parkable_ratio": "0.35",
+            "curb_cut_sum": "29.20",
+            "paint_sum": "32.13",
+            "curb_cut_ratio": "0.31",
+            "paint_ratio": "0.34"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "7.93",
+                "2.92",
+                "5.52",
+                "2.86",
+                "7.72",
+                "7.74",
+                "2.52",
+                "4.68"
+            ],
+            "sidewalk_len": "99.29",
+            "unparkable_curb_sum": "41.89",
+            "parkable_curb_sum": "57.40",
+            "unparkable_ratio": "0.42",
+            "parkable_ratio": "0.58",
+            "curb_cut_sum": "21.19",
+            "paint_sum": "20.70",
+            "curb_cut_ratio": "0.21",
+            "paint_ratio": "0.21"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.66"
+            ],
+            "sidewalk_len": "6.07",
+            "unparkable_curb_sum": "3.66",
+            "parkable_curb_sum": "2.41",
+            "unparkable_ratio": "0.60",
+            "parkable_ratio": "0.40",
+            "curb_cut_sum": "3.66",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.60",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.46",
+                "56.77",
+                "23.45",
+                "4.64"
+            ],
+            "sidewalk_len": "93.26",
+            "unparkable_curb_sum": "90.32",
+            "parkable_curb_sum": "2.94",
+            "unparkable_ratio": "0.97",
+            "parkable_ratio": "0.03",
+            "curb_cut_sum": "4.64",
+            "paint_sum": "85.68",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.92"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.86",
+                "0.93",
+                "4.05",
+                "8.23",
+                "7.57",
+                "3.39",
+                "2.67",
+                "2.93",
+                "1.80",
+                "0.66"
+            ],
+            "sidewalk_len": "126.43",
+            "unparkable_curb_sum": "35.09",
+            "parkable_curb_sum": "91.34",
+            "unparkable_ratio": "0.28",
+            "parkable_ratio": "0.72",
+            "curb_cut_sum": "6.19",
+            "paint_sum": "28.90",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.23"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "9.35",
+                "21.35",
+                "5.04",
+                "0.25",
+                "4.27",
+                "1.47",
+                "31.49",
+                "2.41",
+                "0.07"
+            ],
+            "sidewalk_len": "90.61",
+            "unparkable_curb_sum": "75.70",
+            "parkable_curb_sum": "14.91",
+            "unparkable_ratio": "0.84",
+            "parkable_ratio": "0.16",
+            "curb_cut_sum": "4.59",
+            "paint_sum": "71.11",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.78"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.89",
+                "1.20",
+                "7.44",
+                "30.68",
+                "2.59"
+            ],
+            "sidewalk_len": "53.83",
+            "unparkable_curb_sum": "43.80",
+            "parkable_curb_sum": "10.03",
+            "unparkable_ratio": "0.81",
+            "parkable_ratio": "0.19",
+            "curb_cut_sum": "1.89",
+            "paint_sum": "41.91",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.78"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.50",
+                "2.82",
+                "6.79",
+                "11.27",
+                "2.37",
+                "5.20",
+                "2.28"
+            ],
+            "sidewalk_len": "78.57",
+            "unparkable_curb_sum": "31.23",
+            "parkable_curb_sum": "47.34",
+            "unparkable_ratio": "0.40",
+            "parkable_ratio": "0.60",
+            "curb_cut_sum": "14.09",
+            "paint_sum": "17.14",
+            "curb_cut_ratio": "0.18",
+            "paint_ratio": "0.22"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.34",
+                "22.25",
+                "7.18",
+                "2.16"
+            ],
+            "sidewalk_len": "35.62",
+            "unparkable_curb_sum": "33.93",
+            "parkable_curb_sum": "1.69",
+            "unparkable_ratio": "0.95",
+            "parkable_ratio": "0.05",
+            "curb_cut_sum": "2.34",
+            "paint_sum": "31.59",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.89"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.59",
+                "12.12",
+                "0.48",
+                "2.16"
+            ],
+            "sidewalk_len": "89.27",
+            "unparkable_curb_sum": "16.35",
+            "parkable_curb_sum": "72.92",
+            "unparkable_ratio": "0.18",
+            "parkable_ratio": "0.82",
+            "curb_cut_sum": "2.16",
+            "paint_sum": "14.19",
+            "curb_cut_ratio": "0.02",
+            "paint_ratio": "0.16"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.74",
+                "5.24",
+                "23.43",
+                "6.77",
+                "13.19",
+                "1.45",
+                "10.23",
+                "1.20",
+                "11.78",
+                "1.16",
+                "5.52",
+                "4.19"
+            ],
+            "sidewalk_len": "94.20",
+            "unparkable_curb_sum": "88.90",
+            "parkable_curb_sum": "5.30",
+            "unparkable_ratio": "0.94",
+            "parkable_ratio": "0.06",
+            "curb_cut_sum": "33.90",
+            "paint_sum": "55.00",
+            "curb_cut_ratio": "0.36",
+            "paint_ratio": "0.58"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.17"
+            ],
+            "sidewalk_len": "1.21",
+            "unparkable_curb_sum": "1.17",
+            "parkable_curb_sum": "0.04",
+            "unparkable_ratio": "0.97",
+            "parkable_ratio": "0.03",
+            "curb_cut_sum": "1.17",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.97",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "19.45",
+                "2.09",
+                "7.26",
+                "7.54"
+            ],
+            "sidewalk_len": "42.94",
+            "unparkable_curb_sum": "36.34",
+            "parkable_curb_sum": "6.60",
+            "unparkable_ratio": "0.85",
+            "parkable_ratio": "0.15",
+            "curb_cut_sum": "7.54",
+            "paint_sum": "28.80",
+            "curb_cut_ratio": "0.18",
+            "paint_ratio": "0.67"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.33",
+                "6.88",
+                "30.30"
+            ],
+            "sidewalk_len": "41.05",
+            "unparkable_curb_sum": "38.51",
+            "parkable_curb_sum": "2.54",
+            "unparkable_ratio": "0.94",
+            "parkable_ratio": "0.06",
+            "curb_cut_sum": "30.30",
+            "paint_sum": "8.21",
+            "curb_cut_ratio": "0.74",
+            "paint_ratio": "0.20"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "10.72",
+                "2.16"
+            ],
+            "sidewalk_len": "46.97",
+            "unparkable_curb_sum": "12.88",
+            "parkable_curb_sum": "34.09",
+            "unparkable_ratio": "0.27",
+            "parkable_ratio": "0.73",
+            "curb_cut_sum": "2.16",
+            "paint_sum": "10.72",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.23"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.46",
+                "3.43",
+                "27.88",
+                "9.33",
+                "7.91",
+                "1.57",
+                "36.22",
+                "2.68",
+                "2.90"
+            ],
+            "sidewalk_len": "95.45",
+            "unparkable_curb_sum": "93.38",
+            "parkable_curb_sum": "2.07",
+            "unparkable_ratio": "0.98",
+            "parkable_ratio": "0.02",
+            "curb_cut_sum": "12.27",
+            "paint_sum": "81.11",
+            "curb_cut_ratio": "0.13",
+            "paint_ratio": "0.85"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.30",
+                "1.13",
+                "47.99",
+                "0.56",
+                "9.23",
+                "2.76",
+                "6.17",
+                "19.03",
+                "0.62",
+                "1.82"
+            ],
+            "sidewalk_len": "96.13",
+            "unparkable_curb_sum": "91.61",
+            "parkable_curb_sum": "4.52",
+            "unparkable_ratio": "0.95",
+            "parkable_ratio": "0.05",
+            "curb_cut_sum": "13.35",
+            "paint_sum": "78.26",
+            "curb_cut_ratio": "0.14",
+            "paint_ratio": "0.81"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.79",
+                "2.43",
+                "12.98",
+                "7.48",
+                "22.25",
+                "12.58",
+                "1.48",
+                "5.84",
+                "2.45",
+                "0.60",
+                "6.98",
+                "28.86",
+                "24.03"
+            ],
+            "sidewalk_len": "133.88",
+            "unparkable_curb_sum": "129.75",
+            "parkable_curb_sum": "4.13",
+            "unparkable_ratio": "0.97",
+            "parkable_ratio": "0.03",
+            "curb_cut_sum": "8.23",
+            "paint_sum": "121.52",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.91"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.84",
+                "0.26",
+                "6.53",
+                "19.06",
+                "12.34"
+            ],
+            "sidewalk_len": "81.62",
+            "unparkable_curb_sum": "42.03",
+            "parkable_curb_sum": "39.59",
+            "unparkable_ratio": "0.51",
+            "parkable_ratio": "0.49",
+            "curb_cut_sum": "3.84",
+            "paint_sum": "38.19",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.47"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.32",
+                "7.71"
+            ],
+            "sidewalk_len": "67.23",
+            "unparkable_curb_sum": "13.03",
+            "parkable_curb_sum": "54.20",
+            "unparkable_ratio": "0.19",
+            "parkable_ratio": "0.81",
+            "curb_cut_sum": "13.03",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.19",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.66",
+                "1.68",
+                "17.38",
+                "1.52",
+                "1.88",
+                "4.82"
+            ],
+            "sidewalk_len": "97.13",
+            "unparkable_curb_sum": "32.94",
+            "parkable_curb_sum": "64.19",
+            "unparkable_ratio": "0.34",
+            "parkable_ratio": "0.66",
+            "curb_cut_sum": "4.82",
+            "paint_sum": "28.12",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.29"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "6.55",
+                "31.79",
+                "9.82",
+                "39.53"
+            ],
+            "sidewalk_len": "90.02",
+            "unparkable_curb_sum": "87.69",
+            "parkable_curb_sum": "2.33",
+            "unparkable_ratio": "0.97",
+            "parkable_ratio": "0.03",
+            "curb_cut_sum": "9.82",
+            "paint_sum": "77.87",
+            "curb_cut_ratio": "0.11",
+            "paint_ratio": "0.87"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.35",
+                "13.53",
+                "6.90",
+                "16.38",
+                "3.84"
+            ],
+            "sidewalk_len": "96.49",
+            "unparkable_curb_sum": "43.00",
+            "parkable_curb_sum": "53.49",
+            "unparkable_ratio": "0.45",
+            "parkable_ratio": "0.55",
+            "curb_cut_sum": "3.84",
+            "paint_sum": "39.16",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.41"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.34",
+                "1.06",
+                "2.11",
+                "6.44",
+                "2.11",
+                "6.94",
+                "2.12"
+            ],
+            "sidewalk_len": "22.35",
+            "unparkable_curb_sum": "21.12",
+            "parkable_curb_sum": "1.23",
+            "unparkable_ratio": "0.94",
+            "parkable_ratio": "0.06",
+            "curb_cut_sum": "4.23",
+            "paint_sum": "16.89",
+            "curb_cut_ratio": "0.19",
+            "paint_ratio": "0.76"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "52.92",
+                "33.80"
+            ],
+            "sidewalk_len": "96.19",
+            "unparkable_curb_sum": "86.72",
+            "parkable_curb_sum": "9.47",
+            "unparkable_ratio": "0.90",
+            "parkable_ratio": "0.10",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "86.72",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.90"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "30.96",
+                "65.35"
+            ],
+            "sidewalk_len": "96.39",
+            "unparkable_curb_sum": "96.31",
+            "parkable_curb_sum": "0.08",
+            "unparkable_ratio": "1.00",
+            "parkable_ratio": "0.00",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "96.31",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "1.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.45",
+                "16.32",
+                "3.32",
+                "42.45",
+                "1.96"
+            ],
+            "sidewalk_len": "96.41",
+            "unparkable_curb_sum": "68.50",
+            "parkable_curb_sum": "27.91",
+            "unparkable_ratio": "0.71",
+            "parkable_ratio": "0.29",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "68.50",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.71"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.75",
+                "13.97",
+                "0.24",
+                "3.21"
+            ],
+            "sidewalk_len": "95.22",
+            "unparkable_curb_sum": "21.17",
+            "parkable_curb_sum": "74.05",
+            "unparkable_ratio": "0.22",
+            "parkable_ratio": "0.78",
+            "curb_cut_sum": "3.21",
+            "paint_sum": "17.96",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.19"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.07",
+                "6.33",
+                "0.98",
+                "14.92",
+                "2.16"
+            ],
+            "sidewalk_len": "68.19",
+            "unparkable_curb_sum": "25.46",
+            "parkable_curb_sum": "42.73",
+            "unparkable_ratio": "0.37",
+            "parkable_ratio": "0.63",
+            "curb_cut_sum": "21.25",
+            "paint_sum": "4.21",
+            "curb_cut_ratio": "0.31",
+            "paint_ratio": "0.06"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.86",
+                "68.80",
+                "1.47",
+                "6.87",
+                "0.43",
+                "6.59",
+                "1.18",
+                "8.74"
+            ],
+            "sidewalk_len": "97.79",
+            "unparkable_curb_sum": "95.94",
+            "parkable_curb_sum": "1.85",
+            "unparkable_ratio": "0.98",
+            "parkable_ratio": "0.02",
+            "curb_cut_sum": "6.87",
+            "paint_sum": "89.07",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.91"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.57",
+                "6.62",
+                "14.23",
+                "1.78",
+                "11.23",
+                "3.64",
+                "7.74",
+                "35.66",
+                "3.38"
+            ],
+            "sidewalk_len": "89.52",
+            "unparkable_curb_sum": "87.85",
+            "parkable_curb_sum": "1.67",
+            "unparkable_ratio": "0.98",
+            "parkable_ratio": "0.02",
+            "curb_cut_sum": "18.18",
+            "paint_sum": "69.67",
+            "curb_cut_ratio": "0.20",
+            "paint_ratio": "0.78"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.66"
+            ],
+            "sidewalk_len": "3.70",
+            "unparkable_curb_sum": "3.66",
+            "parkable_curb_sum": "0.04",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "3.66",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.99",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.55",
+                "1.52",
+                "7.17",
+                "29.21",
+                "5.00",
+                "9.68",
+                "6.59",
+                "0.27",
+                "17.76",
+                "3.36",
+                "3.18",
+                "2.05",
+                "3.85"
+            ],
+            "sidewalk_len": "94.53",
+            "unparkable_curb_sum": "94.19",
+            "parkable_curb_sum": "0.34",
+            "unparkable_ratio": "1.00",
+            "parkable_ratio": "0.00",
+            "curb_cut_sum": "8.40",
+            "paint_sum": "85.79",
+            "curb_cut_ratio": "0.09",
+            "paint_ratio": "0.91"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.75",
+                "2.85",
+                "0.36"
+            ],
+            "sidewalk_len": "71.66",
+            "unparkable_curb_sum": "6.96",
+            "parkable_curb_sum": "64.70",
+            "unparkable_ratio": "0.10",
+            "parkable_ratio": "0.90",
+            "curb_cut_sum": "4.11",
+            "paint_sum": "2.85",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.04"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.00",
+                "2.20",
+                "7.09",
+                "75.78",
+                "2.52"
+            ],
+            "sidewalk_len": "93.19",
+            "unparkable_curb_sum": "88.59",
+            "parkable_curb_sum": "4.60",
+            "unparkable_ratio": "0.95",
+            "parkable_ratio": "0.05",
+            "curb_cut_sum": "2.20",
+            "paint_sum": "86.39",
+            "curb_cut_ratio": "0.02",
+            "paint_ratio": "0.93"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "19.85",
+                "19.32",
+                "1.92",
+                "4.96",
+                "0.80",
+                "19.34",
+                "3.49",
+                "4.31"
+            ],
+            "sidewalk_len": "126.19",
+            "unparkable_curb_sum": "73.99",
+            "parkable_curb_sum": "52.20",
+            "unparkable_ratio": "0.59",
+            "parkable_ratio": "0.41",
+            "curb_cut_sum": "9.27",
+            "paint_sum": "64.72",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.51"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "18.46",
+                "0.63",
+                "3.52",
+                "5.15",
+                "4.22",
+                "4.52",
+                "4.52",
+                "2.71",
+                "0.79",
+                "6.51"
+            ],
+            "sidewalk_len": "135.72",
+            "unparkable_curb_sum": "51.03",
+            "parkable_curb_sum": "84.69",
+            "unparkable_ratio": "0.38",
+            "parkable_ratio": "0.62",
+            "curb_cut_sum": "8.04",
+            "paint_sum": "42.99",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.32"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "19.36",
+                "14.34",
+                "36.02",
+                "19.52",
+                "2.88"
+            ],
+            "sidewalk_len": "94.78",
+            "unparkable_curb_sum": "92.12",
+            "parkable_curb_sum": "2.66",
+            "unparkable_ratio": "0.97",
+            "parkable_ratio": "0.03",
+            "curb_cut_sum": "2.88",
+            "paint_sum": "89.24",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.94"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.98",
+                "30.02",
+                "8.57",
+                "34.10",
+                "2.57",
+                "3.37"
+            ],
+            "sidewalk_len": "89.19",
+            "unparkable_curb_sum": "81.61",
+            "parkable_curb_sum": "7.58",
+            "unparkable_ratio": "0.92",
+            "parkable_ratio": "0.08",
+            "curb_cut_sum": "14.92",
+            "paint_sum": "66.69",
+            "curb_cut_ratio": "0.17",
+            "paint_ratio": "0.75"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.94",
+                "44.90",
+                "32.07",
+                "0.69",
+                "2.14"
+            ],
+            "sidewalk_len": "85.94",
+            "unparkable_curb_sum": "81.74",
+            "parkable_curb_sum": "4.20",
+            "unparkable_ratio": "0.95",
+            "parkable_ratio": "0.05",
+            "curb_cut_sum": "4.08",
+            "paint_sum": "77.66",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.90"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.01",
+                "1.87",
+                "0.21",
+                "9.62",
+                "14.04",
+                "2.33",
+                "0.95",
+                "1.19"
+            ],
+            "sidewalk_len": "91.17",
+            "unparkable_curb_sum": "30.22",
+            "parkable_curb_sum": "60.95",
+            "unparkable_ratio": "0.33",
+            "parkable_ratio": "0.67",
+            "curb_cut_sum": "3.06",
+            "paint_sum": "27.16",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.30"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "7.38",
+                "19.01",
+                "2.03",
+                "1.44"
+            ],
+            "sidewalk_len": "48.93",
+            "unparkable_curb_sum": "29.86",
+            "parkable_curb_sum": "19.07",
+            "unparkable_ratio": "0.61",
+            "parkable_ratio": "0.39",
+            "curb_cut_sum": "1.44",
+            "paint_sum": "28.42",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.58"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "25.38",
+                "4.51"
+            ],
+            "sidewalk_len": "93.13",
+            "unparkable_curb_sum": "29.89",
+            "parkable_curb_sum": "63.24",
+            "unparkable_ratio": "0.32",
+            "parkable_ratio": "0.68",
+            "curb_cut_sum": "4.51",
+            "paint_sum": "25.38",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.27"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.56",
+                "2.89",
+                "2.61"
+            ],
+            "sidewalk_len": "122.95",
+            "unparkable_curb_sum": "8.06",
+            "parkable_curb_sum": "114.89",
+            "unparkable_ratio": "0.07",
+            "parkable_ratio": "0.93",
+            "curb_cut_sum": "8.06",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.03"
+            ],
+            "sidewalk_len": "37.13",
+            "unparkable_curb_sum": "5.03",
+            "parkable_curb_sum": "32.10",
+            "unparkable_ratio": "0.14",
+            "parkable_ratio": "0.86",
+            "curb_cut_sum": "5.03",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.14",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.41"
+            ],
+            "sidewalk_len": "10.20",
+            "unparkable_curb_sum": "3.41",
+            "parkable_curb_sum": "6.79",
+            "unparkable_ratio": "0.33",
+            "parkable_ratio": "0.67",
+            "curb_cut_sum": "3.41",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.33",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.23",
+                "8.71",
+                "8.02"
+            ],
+            "sidewalk_len": "92.84",
+            "unparkable_curb_sum": "16.96",
+            "parkable_curb_sum": "75.88",
+            "unparkable_ratio": "0.18",
+            "parkable_ratio": "0.82",
+            "curb_cut_sum": "0.23",
+            "paint_sum": "16.73",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.18"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.02",
+                "12.75",
+                "1.88",
+                "2.29"
+            ],
+            "sidewalk_len": "91.06",
+            "unparkable_curb_sum": "20.94",
+            "parkable_curb_sum": "70.12",
+            "unparkable_ratio": "0.23",
+            "parkable_ratio": "0.77",
+            "curb_cut_sum": "2.29",
+            "paint_sum": "18.65",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.20"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.33",
+                "5.98",
+                "2.37",
+                "2.55"
+            ],
+            "sidewalk_len": "134.20",
+            "unparkable_curb_sum": "13.23",
+            "parkable_curb_sum": "120.97",
+            "unparkable_ratio": "0.10",
+            "parkable_ratio": "0.90",
+            "curb_cut_sum": "10.86",
+            "paint_sum": "2.37",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.02"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.12",
+                "7.75",
+                "4.83",
+                "5.19",
+                "6.41",
+                "25.29",
+                "2.73",
+                "2.10"
+            ],
+            "sidewalk_len": "199.83",
+            "unparkable_curb_sum": "59.42",
+            "parkable_curb_sum": "140.41",
+            "unparkable_ratio": "0.30",
+            "parkable_ratio": "0.70",
+            "curb_cut_sum": "7.29",
+            "paint_sum": "52.13",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.26"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "11.14"
+            ],
+            "sidewalk_len": "12.40",
+            "unparkable_curb_sum": "11.14",
+            "parkable_curb_sum": "1.26",
+            "unparkable_ratio": "0.90",
+            "parkable_ratio": "0.10",
+            "curb_cut_sum": "11.14",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.90",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.73",
+                "3.96",
+                "1.81",
+                "6.53",
+                "21.97",
+                "9.00",
+                "7.29",
+                "5.28",
+                "28.90",
+                "6.90"
+            ],
+            "sidewalk_len": "97.66",
+            "unparkable_curb_sum": "96.37",
+            "parkable_curb_sum": "1.29",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "11.25",
+            "paint_sum": "85.12",
+            "curb_cut_ratio": "0.12",
+            "paint_ratio": "0.87"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.19",
+                "39.99",
+                "26.37",
+                "5.72",
+                "4.47"
+            ],
+            "sidewalk_len": "78.61",
+            "unparkable_curb_sum": "77.74",
+            "parkable_curb_sum": "0.87",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "4.47",
+            "paint_sum": "73.27",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.93"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "6.25",
+                "39.82",
+                "11.66",
+                "12.17"
+            ],
+            "sidewalk_len": "69.90",
+            "unparkable_curb_sum": "69.90",
+            "parkable_curb_sum": "0.00",
+            "unparkable_ratio": "1.00",
+            "parkable_ratio": "0.00",
+            "curb_cut_sum": "11.66",
+            "paint_sum": "58.24",
+            "curb_cut_ratio": "0.17",
+            "paint_ratio": "0.83"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "34.24",
+                "3.02",
+                "12.54"
+            ],
+            "sidewalk_len": "59.90",
+            "unparkable_curb_sum": "49.80",
+            "parkable_curb_sum": "10.10",
+            "unparkable_ratio": "0.83",
+            "parkable_ratio": "0.17",
+            "curb_cut_sum": "12.54",
+            "paint_sum": "37.26",
+            "curb_cut_ratio": "0.21",
+            "paint_ratio": "0.62"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.85",
+                "1.20",
+                "26.86",
+                "14.32",
+                "44.52",
+                "0.20",
+                "2.82"
+            ],
+            "sidewalk_len": "94.23",
+            "unparkable_curb_sum": "93.77",
+            "parkable_curb_sum": "0.46",
+            "unparkable_ratio": "1.00",
+            "parkable_ratio": "0.00",
+            "curb_cut_sum": "6.67",
+            "paint_sum": "87.10",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.92"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "38.91",
+                "14.84",
+                "3.67",
+                "4.88"
+            ],
+            "sidewalk_len": "101.80",
+            "unparkable_curb_sum": "62.30",
+            "parkable_curb_sum": "39.50",
+            "unparkable_ratio": "0.61",
+            "parkable_ratio": "0.39",
+            "curb_cut_sum": "8.55",
+            "paint_sum": "53.75",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.53"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.49",
+                "1.91",
+                "10.75",
+                "0.74",
+                "20.32",
+                "0.84",
+                "1.34",
+                "4.81",
+                "2.08",
+                "2.46",
+                "3.82",
+                "0.75",
+                "1.18",
+                "0.02",
+                "0.46",
+                "0.45",
+                "26.40",
+                "1.10",
+                "1.52",
+                "11.09",
+                "3.65",
+                "0.26",
+                "1.28",
+                "8.74",
+                "0.99",
+                "0.45",
+                "18.34",
+                "0.76",
+                "3.97",
+                "1.56"
+            ],
+            "sidewalk_len": "132.54",
+            "unparkable_curb_sum": "132.53",
+            "parkable_curb_sum": "0.01",
+            "unparkable_ratio": "1.00",
+            "parkable_ratio": "0.00",
+            "curb_cut_sum": "33.11",
+            "paint_sum": "99.42",
+            "curb_cut_ratio": "0.25",
+            "paint_ratio": "0.75"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.58",
+                "1.85"
+            ],
+            "sidewalk_len": "90.64",
+            "unparkable_curb_sum": "4.43",
+            "parkable_curb_sum": "86.21",
+            "unparkable_ratio": "0.05",
+            "parkable_ratio": "0.95",
+            "curb_cut_sum": "4.43",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.53",
+                "5.08",
+                "1.10",
+                "20.46",
+                "2.73"
+            ],
+            "sidewalk_len": "29.90",
+            "unparkable_curb_sum": "29.90",
+            "parkable_curb_sum": "0.00",
+            "unparkable_ratio": "1.00",
+            "parkable_ratio": "0.00",
+            "curb_cut_sum": "5.08",
+            "paint_sum": "24.82",
+            "curb_cut_ratio": "0.17",
+            "paint_ratio": "0.83"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.38"
+            ],
+            "sidewalk_len": "9.37",
+            "unparkable_curb_sum": "5.38",
+            "parkable_curb_sum": "3.99",
+            "unparkable_ratio": "0.57",
+            "parkable_ratio": "0.43",
+            "curb_cut_sum": "5.38",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.57",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.12",
+                "7.44",
+                "2.00"
+            ],
+            "sidewalk_len": "94.72",
+            "unparkable_curb_sum": "11.56",
+            "parkable_curb_sum": "83.16",
+            "unparkable_ratio": "0.12",
+            "parkable_ratio": "0.88",
+            "curb_cut_sum": "11.56",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.12",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.05",
+                "10.50",
+                "2.11",
+                "6.21",
+                "4.88",
+                "5.75",
+                "1.81"
+            ],
+            "sidewalk_len": "131.04",
+            "unparkable_curb_sum": "33.31",
+            "parkable_curb_sum": "97.73",
+            "unparkable_ratio": "0.25",
+            "parkable_ratio": "0.75",
+            "curb_cut_sum": "10.07",
+            "paint_sum": "23.24",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.18"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.16",
+                "21.96",
+                "13.96",
+                "2.17",
+                "3.11",
+                "1.81",
+                "15.90",
+                "16.50",
+                "1.48"
+            ],
+            "sidewalk_len": "91.36",
+            "unparkable_curb_sum": "80.05",
+            "parkable_curb_sum": "11.31",
+            "unparkable_ratio": "0.88",
+            "parkable_ratio": "0.12",
+            "curb_cut_sum": "7.75",
+            "paint_sum": "72.30",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.79"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.46",
+                "0.82",
+                "3.43",
+                "2.20",
+                "1.04",
+                "3.31",
+                "11.39",
+                "1.44"
+            ],
+            "sidewalk_len": "90.60",
+            "unparkable_curb_sum": "26.09",
+            "parkable_curb_sum": "64.51",
+            "unparkable_ratio": "0.29",
+            "parkable_ratio": "0.71",
+            "curb_cut_sum": "5.70",
+            "paint_sum": "20.39",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.23"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.03",
+                "3.22",
+                "2.75",
+                "2.87",
+                "3.51",
+                "8.12",
+                "5.86",
+                "2.46"
+            ],
+            "sidewalk_len": "38.01",
+            "unparkable_curb_sum": "30.82",
+            "parkable_curb_sum": "7.19",
+            "unparkable_ratio": "0.81",
+            "parkable_ratio": "0.19",
+            "curb_cut_sum": "15.36",
+            "paint_sum": "15.46",
+            "curb_cut_ratio": "0.40",
+            "paint_ratio": "0.41"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.77",
+                "35.22",
+                "6.69",
+                "4.60",
+                "8.23",
+                "18.02",
+                "4.89"
+            ],
+            "sidewalk_len": "87.61",
+            "unparkable_curb_sum": "79.42",
+            "parkable_curb_sum": "8.19",
+            "unparkable_ratio": "0.91",
+            "parkable_ratio": "0.09",
+            "curb_cut_sum": "6.69",
+            "paint_sum": "72.73",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.83"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.77",
+                "4.63",
+                "2.83",
+                "3.41",
+                "13.82",
+                "11.52",
+                "2.12",
+                "2.91"
+            ],
+            "sidewalk_len": "93.05",
+            "unparkable_curb_sum": "44.01",
+            "parkable_curb_sum": "49.04",
+            "unparkable_ratio": "0.47",
+            "parkable_ratio": "0.53",
+            "curb_cut_sum": "36.29",
+            "paint_sum": "7.72",
+            "curb_cut_ratio": "0.39",
+            "paint_ratio": "0.08"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.07",
+                "7.53",
+                "27.83",
+                "0.61",
+                "5.08",
+                "1.17",
+                "6.49",
+                "22.51",
+                "5.10"
+            ],
+            "sidewalk_len": "95.92",
+            "unparkable_curb_sum": "78.39",
+            "parkable_curb_sum": "17.53",
+            "unparkable_ratio": "0.82",
+            "parkable_ratio": "0.18",
+            "curb_cut_sum": "12.25",
+            "paint_sum": "66.14",
+            "curb_cut_ratio": "0.13",
+            "paint_ratio": "0.69"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.98",
+                "12.18",
+                "12.84",
+                "13.84",
+                "13.94",
+                "1.92",
+                "18.13",
+                "0.46",
+                "9.44",
+                "12.67",
+                "3.38"
+            ],
+            "sidewalk_len": "135.95",
+            "unparkable_curb_sum": "101.78",
+            "parkable_curb_sum": "34.17",
+            "unparkable_ratio": "0.75",
+            "parkable_ratio": "0.25",
+            "curb_cut_sum": "24.49",
+            "paint_sum": "77.29",
+            "curb_cut_ratio": "0.18",
+            "paint_ratio": "0.57"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.05",
+                "0.92",
+                "53.07",
+                "14.13",
+                "26.71",
+                "0.90",
+                "2.40"
+            ],
+            "sidewalk_len": "133.56",
+            "unparkable_curb_sum": "102.18",
+            "parkable_curb_sum": "31.38",
+            "unparkable_ratio": "0.77",
+            "parkable_ratio": "0.23",
+            "curb_cut_sum": "4.05",
+            "paint_sum": "98.13",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.73"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.77",
+                "30.73",
+                "49.53",
+                "4.16"
+            ],
+            "sidewalk_len": "88.49",
+            "unparkable_curb_sum": "87.19",
+            "parkable_curb_sum": "1.30",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "6.93",
+            "paint_sum": "80.26",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.91"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.51",
+                "3.36"
+            ],
+            "sidewalk_len": "95.15",
+            "unparkable_curb_sum": "5.87",
+            "parkable_curb_sum": "89.28",
+            "unparkable_ratio": "0.06",
+            "parkable_ratio": "0.94",
+            "curb_cut_sum": "5.87",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.94",
+                "5.40",
+                "18.42",
+                "4.64",
+                "1.63"
+            ],
+            "sidewalk_len": "93.05",
+            "unparkable_curb_sum": "32.03",
+            "parkable_curb_sum": "61.02",
+            "unparkable_ratio": "0.34",
+            "parkable_ratio": "0.66",
+            "curb_cut_sum": "3.57",
+            "paint_sum": "28.46",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.31"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.98",
+                "36.46",
+                "5.71",
+                "6.58",
+                "3.72",
+                "38.09",
+                "2.37"
+            ],
+            "sidewalk_len": "96.97",
+            "unparkable_curb_sum": "95.91",
+            "parkable_curb_sum": "1.06",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "9.56",
+            "paint_sum": "86.35",
+            "curb_cut_ratio": "0.10",
+            "paint_ratio": "0.89"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "37.58",
+                "1.78",
+                "7.70",
+                "40.52",
+                "4.26"
+            ],
+            "sidewalk_len": "96.35",
+            "unparkable_curb_sum": "91.84",
+            "parkable_curb_sum": "4.51",
+            "unparkable_ratio": "0.95",
+            "parkable_ratio": "0.05",
+            "curb_cut_sum": "11.96",
+            "paint_sum": "79.88",
+            "curb_cut_ratio": "0.12",
+            "paint_ratio": "0.83"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.58",
+                "1.73",
+                "3.87",
+                "2.92"
+            ],
+            "sidewalk_len": "23.98",
+            "unparkable_curb_sum": "14.10",
+            "parkable_curb_sum": "9.88",
+            "unparkable_ratio": "0.59",
+            "parkable_ratio": "0.41",
+            "curb_cut_sum": "12.37",
+            "paint_sum": "1.73",
+            "curb_cut_ratio": "0.52",
+            "paint_ratio": "0.07"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.59",
+                "1.65"
+            ],
+            "sidewalk_len": "90.58",
+            "unparkable_curb_sum": "2.24",
+            "parkable_curb_sum": "88.34",
+            "unparkable_ratio": "0.02",
+            "parkable_ratio": "0.98",
+            "curb_cut_sum": "2.24",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.02",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.30",
+                "1.85",
+                "86.97",
+                "0.69",
+                "2.58"
+            ],
+            "sidewalk_len": "95.48",
+            "unparkable_curb_sum": "94.39",
+            "parkable_curb_sum": "1.09",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "4.88",
+            "paint_sum": "89.51",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.94"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.40",
+                "3.68",
+                "27.22",
+                "20.48",
+                "6.25",
+                "5.12",
+                "5.09",
+                "35.57",
+                "12.05",
+                "10.89"
+            ],
+            "sidewalk_len": "133.17",
+            "unparkable_curb_sum": "126.75",
+            "parkable_curb_sum": "6.42",
+            "unparkable_ratio": "0.95",
+            "parkable_ratio": "0.05",
+            "curb_cut_sum": "8.77",
+            "paint_sum": "117.98",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.89"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.14",
+                "2.27",
+                "28.47",
+                "24.46",
+                "8.83",
+                "2.17",
+                "5.69",
+                "0.85",
+                "0.48",
+                "7.30",
+                "1.06",
+                "24.27",
+                "3.23"
+            ],
+            "sidewalk_len": "132.67",
+            "unparkable_curb_sum": "109.22",
+            "parkable_curb_sum": "23.45",
+            "unparkable_ratio": "0.82",
+            "parkable_ratio": "0.18",
+            "curb_cut_sum": "21.63",
+            "paint_sum": "87.59",
+            "curb_cut_ratio": "0.16",
+            "paint_ratio": "0.66"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.38",
+                "1.32",
+                "15.72",
+                "6.46",
+                "3.97"
+            ],
+            "sidewalk_len": "99.37",
+            "unparkable_curb_sum": "30.85",
+            "parkable_curb_sum": "68.52",
+            "unparkable_ratio": "0.31",
+            "parkable_ratio": "0.69",
+            "curb_cut_sum": "13.81",
+            "paint_sum": "17.04",
+            "curb_cut_ratio": "0.14",
+            "paint_ratio": "0.17"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.93",
+                "19.67",
+                "29.31",
+                "41.17",
+                "3.36",
+                "2.14"
+            ],
+            "sidewalk_len": "125.75",
+            "unparkable_curb_sum": "97.58",
+            "parkable_curb_sum": "28.17",
+            "unparkable_ratio": "0.78",
+            "parkable_ratio": "0.22",
+            "curb_cut_sum": "4.07",
+            "paint_sum": "93.51",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.74"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.45",
+                "6.81",
+                "27.68",
+                "2.49",
+                "38.41",
+                "6.89",
+                "2.49"
+            ],
+            "sidewalk_len": "132.36",
+            "unparkable_curb_sum": "86.22",
+            "parkable_curb_sum": "46.14",
+            "unparkable_ratio": "0.65",
+            "parkable_ratio": "0.35",
+            "curb_cut_sum": "10.83",
+            "paint_sum": "75.39",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.57"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "59.22",
+                "6.15",
+                "5.07"
+            ],
+            "sidewalk_len": "102.92",
+            "unparkable_curb_sum": "70.44",
+            "parkable_curb_sum": "32.48",
+            "unparkable_ratio": "0.68",
+            "parkable_ratio": "0.32",
+            "curb_cut_sum": "11.22",
+            "paint_sum": "59.22",
+            "curb_cut_ratio": "0.11",
+            "paint_ratio": "0.58"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "5.37"
+            ],
+            "sidewalk_len": "23.71",
+            "unparkable_curb_sum": "5.37",
+            "parkable_curb_sum": "18.34",
+            "unparkable_ratio": "0.23",
+            "parkable_ratio": "0.77",
+            "curb_cut_sum": "5.37",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.23",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "39.34",
+                "4.72",
+                "2.99"
+            ],
+            "sidewalk_len": "94.95",
+            "unparkable_curb_sum": "47.05",
+            "parkable_curb_sum": "47.90",
+            "unparkable_ratio": "0.50",
+            "parkable_ratio": "0.50",
+            "curb_cut_sum": "2.99",
+            "paint_sum": "44.06",
+            "curb_cut_ratio": "0.03",
+            "paint_ratio": "0.46"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.12",
+                "1.42",
+                "1.51",
+                "4.48",
+                "2.79",
+                "26.13",
+                "5.58",
+                "7.98",
+                "4.93",
+                "9.37",
+                "5.62",
+                "2.27",
+                "2.00",
+                "22.91",
+                "0.71",
+                "1.02"
+            ],
+            "sidewalk_len": "98.84",
+            "unparkable_curb_sum": "98.84",
+            "parkable_curb_sum": "0.00",
+            "unparkable_ratio": "1.00",
+            "parkable_ratio": "0.00",
+            "curb_cut_sum": "16.04",
+            "paint_sum": "82.80",
+            "curb_cut_ratio": "0.16",
+            "paint_ratio": "0.84"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.85",
+                "13.17",
+                "5.57",
+                "2.96",
+                "16.24",
+                "7.10",
+                "12.01",
+                "1.38",
+                "7.22",
+                "1.83",
+                "22.08",
+                "4.89"
+            ],
+            "sidewalk_len": "132.45",
+            "unparkable_curb_sum": "99.30",
+            "parkable_curb_sum": "33.15",
+            "unparkable_ratio": "0.75",
+            "parkable_ratio": "0.25",
+            "curb_cut_sum": "19.89",
+            "paint_sum": "79.41",
+            "curb_cut_ratio": "0.15",
+            "paint_ratio": "0.60"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.12",
+                "2.66",
+                "32.09"
+            ],
+            "sidewalk_len": "36.30",
+            "unparkable_curb_sum": "34.87",
+            "parkable_curb_sum": "1.43",
+            "unparkable_ratio": "0.96",
+            "parkable_ratio": "0.04",
+            "curb_cut_sum": "0.12",
+            "paint_sum": "34.75",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.96"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.74",
+                "1.71",
+                "28.04",
+                "1.83"
+            ],
+            "sidewalk_len": "90.78",
+            "unparkable_curb_sum": "34.32",
+            "parkable_curb_sum": "56.46",
+            "unparkable_ratio": "0.38",
+            "parkable_ratio": "0.62",
+            "curb_cut_sum": "4.57",
+            "paint_sum": "29.75",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.33"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.91",
+                "1.68",
+                "0.47",
+                "0.34",
+                "38.48"
+            ],
+            "sidewalk_len": "97.38",
+            "unparkable_curb_sum": "41.88",
+            "parkable_curb_sum": "55.50",
+            "unparkable_ratio": "0.43",
+            "parkable_ratio": "0.57",
+            "curb_cut_sum": "1.68",
+            "paint_sum": "40.20",
+            "curb_cut_ratio": "0.02",
+            "paint_ratio": "0.41"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.89"
+            ],
+            "sidewalk_len": "2.23",
+            "unparkable_curb_sum": "1.89",
+            "parkable_curb_sum": "0.34",
+            "unparkable_ratio": "0.85",
+            "parkable_ratio": "0.15",
+            "curb_cut_sum": "1.89",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.85",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.77",
+                "3.95",
+                "7.06",
+                "1.67",
+                "3.46",
+                "2.22",
+                "1.18",
+                "2.51"
+            ],
+            "sidewalk_len": "92.50",
+            "unparkable_curb_sum": "22.82",
+            "parkable_curb_sum": "69.68",
+            "unparkable_ratio": "0.25",
+            "parkable_ratio": "0.75",
+            "curb_cut_sum": "6.74",
+            "paint_sum": "16.08",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.17"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.00"
+            ],
+            "sidewalk_len": "110.33",
+            "unparkable_curb_sum": "4.00",
+            "parkable_curb_sum": "106.33",
+            "unparkable_ratio": "0.04",
+            "parkable_ratio": "0.96",
+            "curb_cut_sum": "4.00",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.22",
+                "3.49"
+            ],
+            "sidewalk_len": "94.58",
+            "unparkable_curb_sum": "4.71",
+            "parkable_curb_sum": "89.87",
+            "unparkable_ratio": "0.05",
+            "parkable_ratio": "0.95",
+            "curb_cut_sum": "4.71",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.05",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.61",
+                "5.35",
+                "10.26",
+                "11.17",
+                "24.13",
+                "25.63",
+                "3.38"
+            ],
+            "sidewalk_len": "89.51",
+            "unparkable_curb_sum": "82.53",
+            "parkable_curb_sum": "6.98",
+            "unparkable_ratio": "0.92",
+            "parkable_ratio": "0.08",
+            "curb_cut_sum": "5.99",
+            "paint_sum": "76.54",
+            "curb_cut_ratio": "0.07",
+            "paint_ratio": "0.86"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "25.67",
+                "22.49",
+                "1.93",
+                "14.89",
+                "1.23",
+                "26.44",
+                "1.90",
+                "1.93"
+            ],
+            "sidewalk_len": "96.75",
+            "unparkable_curb_sum": "96.48",
+            "parkable_curb_sum": "0.27",
+            "unparkable_ratio": "1.00",
+            "parkable_ratio": "0.00",
+            "curb_cut_sum": "16.82",
+            "paint_sum": "79.66",
+            "curb_cut_ratio": "0.17",
+            "paint_ratio": "0.82"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.43",
+                "2.84"
+            ],
+            "sidewalk_len": "98.31",
+            "unparkable_curb_sum": "6.27",
+            "parkable_curb_sum": "92.04",
+            "unparkable_ratio": "0.06",
+            "parkable_ratio": "0.94",
+            "curb_cut_sum": "6.27",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.06",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.24"
+            ],
+            "sidewalk_len": "11.49",
+            "unparkable_curb_sum": "4.24",
+            "parkable_curb_sum": "7.25",
+            "unparkable_ratio": "0.37",
+            "parkable_ratio": "0.63",
+            "curb_cut_sum": "4.24",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.37",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.18",
+                "0.41",
+                "24.80",
+                "6.71",
+                "22.35",
+                "1.01"
+            ],
+            "sidewalk_len": "94.49",
+            "unparkable_curb_sum": "56.46",
+            "parkable_curb_sum": "38.03",
+            "unparkable_ratio": "0.60",
+            "parkable_ratio": "0.40",
+            "curb_cut_sum": "1.18",
+            "paint_sum": "55.28",
+            "curb_cut_ratio": "0.01",
+            "paint_ratio": "0.59"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "2.43",
+                "4.44",
+                "3.91",
+                "5.30",
+                "31.60",
+                "6.04",
+                "3.31",
+                "0.50",
+                "18.09",
+                "6.99"
+            ],
+            "sidewalk_len": "88.73",
+            "unparkable_curb_sum": "82.61",
+            "parkable_curb_sum": "6.12",
+            "unparkable_ratio": "0.93",
+            "parkable_ratio": "0.07",
+            "curb_cut_sum": "41.25",
+            "paint_sum": "41.36",
+            "curb_cut_ratio": "0.46",
+            "paint_ratio": "0.47"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.08",
+                "5.15",
+                "15.03",
+                "1.63",
+                "9.88",
+                "2.41",
+                "53.78"
+            ],
+            "sidewalk_len": "93.57",
+            "unparkable_curb_sum": "91.96",
+            "parkable_curb_sum": "1.61",
+            "unparkable_ratio": "0.98",
+            "parkable_ratio": "0.02",
+            "curb_cut_sum": "13.96",
+            "paint_sum": "78.00",
+            "curb_cut_ratio": "0.15",
+            "paint_ratio": "0.83"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.36",
+                "12.11",
+                "6.67",
+                "40.65",
+                "1.54"
+            ],
+            "sidewalk_len": "97.07",
+            "unparkable_curb_sum": "64.33",
+            "parkable_curb_sum": "32.74",
+            "unparkable_ratio": "0.66",
+            "parkable_ratio": "0.34",
+            "curb_cut_sum": "11.57",
+            "paint_sum": "52.76",
+            "curb_cut_ratio": "0.12",
+            "paint_ratio": "0.54"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "4.38",
+                "2.82"
+            ],
+            "sidewalk_len": "94.04",
+            "unparkable_curb_sum": "7.20",
+            "parkable_curb_sum": "86.84",
+            "unparkable_ratio": "0.08",
+            "parkable_ratio": "0.92",
+            "curb_cut_sum": "7.20",
+            "paint_sum": "0.00",
+            "curb_cut_ratio": "0.08",
+            "paint_ratio": "0.00"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "1.56",
+                "69.96",
+                "21.12"
+            ],
+            "sidewalk_len": "93.70",
+            "unparkable_curb_sum": "92.64",
+            "parkable_curb_sum": "1.06",
+            "unparkable_ratio": "0.99",
+            "parkable_ratio": "0.01",
+            "curb_cut_sum": "0.00",
+            "paint_sum": "92.64",
+            "curb_cut_ratio": "0.00",
+            "paint_ratio": "0.99"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "3.96",
+                "5.16",
+                "79.16",
+                "1.65"
+            ],
+            "sidewalk_len": "94.65",
+            "unparkable_curb_sum": "89.93",
+            "parkable_curb_sum": "4.72",
+            "unparkable_ratio": "0.95",
+            "parkable_ratio": "0.05",
+            "curb_cut_sum": "3.96",
+            "paint_sum": "85.97",
+            "curb_cut_ratio": "0.04",
+            "paint_ratio": "0.91"
+        },
+        {
+            "indivisual_unparkable_curb": [
+                "0.79",
+                "3.55",
+                "19.30",
+                "7.95",
+                "1.71",
+                "4.38",
+                "3.86",
+                "1.78",
+                "2.92",
+                "3.78",
+                "0.98",
+                "7.39",
+                "4.73",
+                "2.96",
+                "10.60",
+                "3.73",
+                "0.26"
+            ],
+            "sidewalk_len": "330.10",
+            "unparkable_curb_sum": "80.67",
+            "parkable_curb_sum": "249.43",
+            "unparkable_ratio": "0.24",
+            "parkable_ratio": "0.76",
+            "curb_cut_sum": "38.20",
+            "paint_sum": "42.47",
+            "curb_cut_ratio": "0.12",
+            "paint_ratio": "0.13"
+        }
+    ]
+}
